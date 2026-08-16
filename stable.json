@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "versionName": "1.1.0",
+  "versionCode": 111,
+  "tagName": "v1.1.0",
+  "title": "HyperIntervals 1.1 正式版",
+  "changelog": [
+    "新增动态取色模式与 EOL 设备查询",
+    "优化数据统计、启动刷新和主页显示效果",
+    "修复大屏端及液态玻璃样式的显示问题"
+  ],
+  "publishedAt": "2026-08-16",
+  "downloads": {
+    "github": {
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.1.0",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.1.0/app-release.apk"
+    },
+    "gitee": {
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.1.0",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.1.0/app-release.apk"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "channel": "beta",
+  "versionName": "1.1.1.Beta",
+  "versionCode": 112,
+  "tagName": "v1.1.1",
+  "title": "HyperIntervals 1.1 Beta",
+  "changelog": [
+    "优化不同设备类型的筛选体验",
+    "修复部分场景下设备筛选逻辑异常的问题",
+    "修复部分场景下检查更新一直显示请求频繁的问题"
+  ],
+  "publishedAt": "2026-08-17",
+  "downloads": {
+    "github": {
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.1.1",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.1.1/app-release.apk"
+    },
+    "gitee": {
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.1.1",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.1.1/app-release.apk"
+    }
+  }
+}
