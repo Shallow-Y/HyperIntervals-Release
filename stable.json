@@ -3,7 +3,7 @@
   "channel": "stable",
   "versionName": "1.1.0",
   "versionCode": 111,
-  "tagName": "v1.1.0",
+  "tagName": "v1.1.0 (111)",
   "title": "HyperIntervals 1.1 正式版",
   "changelog": [
     "新增动态取色模式与 EOL 设备查询",
