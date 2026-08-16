@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionName": "1.1.0",
+  "versionName": "1.1.2.Beta",
   "versionCode": 113,
-  "tagName": "v1.1.0",
+  "tagName": "v1.1.2",
   "title": "HyperIntervals 1.1 正式版",
   "changelog": [
     "新增动态取色模式与 EOL 设备查询",
