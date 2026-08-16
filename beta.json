@@ -6,11 +6,13 @@
   "tagName": "v1.1.1",
   "title": "HyperIntervals 1.1 Beta",
   "changelog": [
-    "优化不同设备类型的筛选体验",
-    "修复部分场景下设备筛选逻辑异常的问题",
-    "修复部分场景下检查更新一直显示请求频繁的问题"
+    "HyperIntervals 1.1 Beta版更新，Beta版可能存在稳定性不如正式版的情况，本次更新后优化了不同设备类型筛选体验，如您在使用中遇到任何问题，及时提交反馈~",
+    "",
+    "优化 应用内版本更新逻辑",
+    "修复 部分场景下筛选设备逻辑异常的问题",
+    "修复 部分场景下检查更新一直显示请求频繁的问题"
   ],
-  "publishedAt": "2026-08-17",
+  "publishedAt": "2026-08-16",
   "downloads": {
     "github": {
       "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.1.1",
