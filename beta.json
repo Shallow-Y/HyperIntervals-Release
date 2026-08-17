@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "channel": "beta",
-  "versionName": "1.1.1.Beta",
-  "versionCode": 112,
-  "tagName": "v1.1.1",
+  "versionName": "1.1.2.Beta",
+  "versionCode": 113,
+  "tagName": "v1.1.2",
   "title": "HyperIntervals 1.1 Beta",
   "changelog": [
     "HyperIntervals 1.1 Beta版更新，Beta版可能存在稳定性不如正式版的情况，本次更新后优化了设备数据刷新的使用体验，如您在使用中遇到任何问题，欢迎提交反馈~",
@@ -12,15 +12,15 @@
     "优化 启动应用时刷新数据的逻辑",
     "优化 合并清除缓存和手动刷新功能，点击一键清理并刷新数据"
   ],
-  "publishedAt": "2026-08-16",
+  "publishedAt": "2026-08-17",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.1.1",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.1.1/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.1.2",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.1.2/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.1.1",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.1.1/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.1.2",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.1.2/app-release.apk"
     }
   }
 }
