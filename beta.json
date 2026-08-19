@@ -1,26 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "beta",
-  "versionName": "1.1.2.Beta",
-  "versionCode": 113,
-  "tagName": "v1.1.2",
+  "versionName": "1.1.3.Beta",
+  "versionCode": 114,
+  "tagName": "v1.1.3",
   "title": "HyperIntervals 1.1 Beta",
   "changelog": [
-    "HyperIntervals 1.1 Beta版更新，Beta版可能存在稳定性不如正式版的情况，本次更新后优化了设备数据刷新的使用体验，如您在使用中遇到任何问题，欢迎提交反馈~",
+    "HyperIntervals 1.1 Beta版更新，Beta版可能存在稳定性不如正式版的情况，本次更新后新增了小米澎湃OS 4的 UI与动效，如您在使用中遇到任何问题，欢迎提交反馈~",
     "",
-    "优化 EOL 设备列表在无网络时显示的逻辑",
-    "优化 启动应用时刷新数据的逻辑",
-    "优化 合并清除缓存和手动刷新功能，点击一键清理并刷新数据"
+    "新增 小米澎湃OS 4样式的UI和动画效果 *",
+    "优化 数据页搜索栏与筛选按钮的交互方式",
+    "优化 更新日志的展示效果",
+    "",
+    "* 澎湃OS 4样式的UI与动效仅限Beta通道体验，下个正式版依旧使用OS3与液态玻璃的可选样式"
   ],
-  "publishedAt": "2026-08-17",
+  "publishedAt": "2026-08-19",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.1.2",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.1.2/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.1.3",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.1.3/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.1.2",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.1.2/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.1.3",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.1.3/app-release.apk"
     }
   }
 }
