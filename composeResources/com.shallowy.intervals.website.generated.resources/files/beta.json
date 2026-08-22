@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "channel": "beta",
+  "versionName": "1.1.3.Beta",
+  "versionCode": 114,
+  "tagName": "v1.1.3",
+  "title": "HyperIntervals 1.1 Beta",
+  "changelog": [
+    "HyperIntervals 1.1 Beta版更新，Beta版可能存在稳定性不如正式版的情况，本次更新后新增了小米澎湃OS 4的 UI与动效，如您在使用中遇到任何问题，欢迎提交反馈~",
+    "",
+    "新增 小米澎湃OS 4样式的UI和动画效果 *",
+    "优化 数据页搜索栏与筛选按钮的交互方式",
+    "优化 更新日志的展示效果",
+    "",
+    "* 澎湃OS 4样式的UI与动效仅限Beta通道体验，下个正式版依旧使用OS3与液态玻璃的可选样式"
+  ],
+  "publishedAt": "2026-08-19",
+  "downloads": {
+    "github": {
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.1.3",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.1.3/app-release.apk"
+    },
+    "gitee": {
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.1.3",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.1.3/app-release.apk"
+    }
+  }
+}

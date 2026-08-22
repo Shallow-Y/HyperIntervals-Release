@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "versionName": "1.1.4",
+  "versionCode": 115,
+  "tagName": "v1.1.4",
+  "title": "HyperIntervals 1.1 正式版",
+  "changelog": [
+    "HyperIntervals 1.1 正式版更新，本次更新后同步了部分Beta版更新内容，如果还想继续体验OS4风格UI请不要升级到这个版本，如您在使用中遇到任何问题，欢迎提交反馈~",
+    "",
+    "新增 清理安装包选项，未安装的更新包可以一键清理",
+    "新增 GitHub Pages 网页，可以随时随地在浏览器中查询数据",
+    "优化 数据页设备卡片呈现效果",
+    "优化 EOL 设备列表的字体与显示效果",
+    "优化 部分设备名称替换为国内型号，更适合中国宝宝的体质",
+    "优化 应用内版本更新逻辑",
+    "优化 EOL 设备列表在无网络时显示的逻辑",
+    "优化 启动应用时刷新数据的逻辑",
+    "优化 合并清除缓存和手动刷新功能，点击一键清理并刷新数据",
+    "优化 数据页搜索栏与筛选按钮的交互方式",
+    "优化 更新日志的展示效果",
+    "修复 部分场景下筛选设备逻辑异常的问题",
+    "修复 部分场景下检查更新一直显示请求频繁的问题"
+  ],
+  "publishedAt": "2026-08-20",
+  "downloads": {
+    "github": {
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.1.4",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.1.4/app-release.apk"
+    },
+    "gitee": {
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.1.4",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.1.4/app-release.apk"
+    }
+  }
+}

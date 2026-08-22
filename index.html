@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#f7f7fb" />
+  <title>HyperIntervals</title>
+  <link rel="preload" href="fonts/MiSansVF.ttf" as="font" type="font/ttf" crossorigin />
+  <style>
+    @font-face {
+      font-family: "MiSans VF";
+      src: url("fonts/MiSansVF.ttf") format("truetype");
+      font-display: block;
+    }
+    html, body, #ComposeTarget {
+      width: 100%;
+      min-height: 100vh;
+      height: 100vh;
+      min-height: 100dvh;
+      height: 100dvh;
+      margin: 0;
+      -webkit-text-size-adjust: 100%;
+      text-size-adjust: 100%;
+    }
+    body {
+      background: #f7f7fb;
+      font-family: "MiSans VF", "MiSans", sans-serif;
+      overflow: hidden;
+    }
+    #ComposeTarget {
+      min-height: 100vh;
+      height: 100vh;
+      min-height: 100dvh;
+      height: 100dvh;
+      overflow: hidden;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+    }
+    #ComposeTarget::-webkit-scrollbar {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="ComposeTarget"></div>
+  <script>
+    const startCompose = () => {
+      const script = document.createElement("script");
+      script.src = "hyperIntervalsWebsite.js";
+      document.body.appendChild(script);
+    };
+
+    if (document.fonts && document.fonts.load) {
+      document.fonts.load("16px 'MiSans VF'").then(startCompose, startCompose);
+    } else {
+      startCompose();
+    }
+  </script>
+</body>
+</html>
