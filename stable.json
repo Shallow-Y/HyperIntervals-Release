@@ -1,31 +1,35 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionName": "1.1.5",
-  "versionCode": 116,
-  "tagName": "v1.1.5",
+  "versionName": "1.1.7",
+  "versionCode": 118,
+  "tagName": "v1.1.7",
   "title": "HyperIntervals 1.1 正式版",
   "changelog": [
-    "HyperIntervals 1.1 正式版更新，本次更新后的主页新增当前设备的维护情况，同时带来了 1.2 版本前瞻内容 - “小工具 Beta 版”，如您在使用中遇到任何问题，欢迎提交反馈~",
+    "HyperIntervals 1.1 正式版更新，本次更新后优化了小工具的使用体验，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "新增 首页支持一键查看当前设备的维护情况",
-    "新增 小工具 Beta 版，各种工具即将更新",
-    "新增 支持分析日志，一键查看当前设备电池健康度状况",
-    "新增 支持分析日志，一键查看当前设备充电情况",
-    "新增 支持分析日志，一键查看当前设备屏幕供应商信息",
-    "新增 支持分析日志，一键查看当前设备内存与存储的详细信息",
-    "优化 日志分析的速度",
-    "优化 大屏端打开液态玻璃模式后按钮与屏幕边缘的间距"
+    "新增 最低 Android 版本支持到 Android 8 (SDK26)",
+    "新增 适配安卓经典导航栏，自适应底部导航栏高度",
+    "新增 帮助与反馈，各种常见问题都可查询到",
+    "新增 问题反馈入口，遇到问题后欢迎第一时间提交反馈~",
+    "新增 工具页设备卡片支持显示触控 IC，仅部分机型支持显示",
+    "新增 支持查询系统属性",
+    "新增 日志导入后，支持显示当前日志的机型",
+    "优化 电池健康度检测方案，兼容旧机型",
+    "优化 电池健康度的历史记录时间排序方式",
+    "优化 电池健康度的历史记录可以选择单个删除",
+    "优化 工具页卡片之间的间距",
+    "修复 部分已知问题"
   ],
-  "publishedAt": "2026-08-23",
+  "publishedAt": "2026-08-27",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.1.5",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.1.5/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.1.7",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.1.7/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.1.5",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.1.5/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.1.7",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.1.7/app-release.apk"
     }
   }
 }
