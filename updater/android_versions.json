@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "androidVersions": [
+    { "version": "17.0", "letter": "X" },
+    { "version": "16.0", "letter": "W" },
+    { "version": "15.0", "letter": "V" },
+    { "version": "14.0", "letter": "U" },
+    { "version": "13.0", "letter": "T" },
+    { "version": "12.0", "letter": "S" },
+    { "version": "11.0", "letter": "R" },
+    { "version": "10.0", "letter": "Q" },
+    { "version": "9.0", "letter": "P" },
+    { "version": "8.1", "letter": "O" },
+    { "version": "8.0", "letter": "O" },
+    { "version": "7.1", "letter": "N" },
+    { "version": "7.0", "letter": "N" },
+    { "version": "6.0", "letter": "M" },
+    { "version": "5.1", "letter": "L" },
+    { "version": "5.0", "letter": "L" },
+    { "version": "4.4", "letter": "K" }
+  ]
+}
