@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "name": "鸡音盒",
+      "sounds": [
+        {
+          "sequence": 1,
+          "name": "鸡",
+          "file": "01_鸡.mp3"
+        },
+        {
+          "sequence": 2,
+          "name": "你",
+          "file": "02_你.mp3"
+        },
+        {
+          "sequence": 3,
+          "name": "太",
+          "file": "03_太.mp3"
+        },
+        {
+          "sequence": 4,
+          "name": "美",
+          "file": "04_美.mp3"
+        },
+        {
+          "sequence": 5,
+          "name": "唱",
+          "file": "05_唱.mp3"
+        },
+        {
+          "sequence": 6,
+          "name": "跳",
+          "file": "06_跳.mp3"
+        },
+        {
+          "sequence": 7,
+          "name": "rap",
+          "file": "07_rap.mp3"
+        },
+        {
+          "sequence": 8,
+          "name": "篮球",
+          "file": "08_篮球.mp3"
+        },
+        {
+          "sequence": 9,
+          "name": "哇真的是你",
+          "file": "09_哇真的是你.mp3"
+        },
+        {
+          "sequence": 10,
+          "name": "哎呀",
+          "file": "10_哎呀.mp3"
+        },
+        {
+          "sequence": 11,
+          "name": "哈哈哈",
+          "file": "11_哈哈哈.mp3"
+        },
+        {
+          "sequence": 12,
+          "name": "嗯啊",
+          "file": "12_嗯啊.mp3"
+        },
+        {
+          "sequence": 13,
+          "name": "music",
+          "file": "13_music.mp3"
+        },
+        {
+          "sequence": 14,
+          "name": "啊~",
+          "file": "14_啊~.mp3"
+        },
+        {
+          "sequence": 15,
+          "name": "哇呵呵",
+          "file": "15_哇呵呵.mp3"
+        },
+        {
+          "sequence": 16,
+          "name": "喜欢",
+          "file": "16_喜欢.mp3"
+        },
+        {
+          "sequence": 17,
+          "name": "全民制作人",
+          "file": "17_全民制作人.mp3"
+        },
+        {
+          "sequence": 18,
+          "name": "大家好",
+          "file": "18_大家好.mp3"
+        },
+        {
+          "sequence": 19,
+          "name": "我是",
+          "file": "19_我是.mp3"
+        },
+        {
+          "sequence": 20,
+          "name": "鲲鲲",
+          "file": "20_鲲鲲.mp3"
+        },
+        {
+          "sequence": 21,
+          "name": "你干嘛",
+          "file": "21_你干嘛.mp3"
+        },
+        {
+          "sequence": 22,
+          "name": "哈哈",
+          "file": "22_哈哈.mp3"
+        },
+        {
+          "sequence": 23,
+          "name": "哎哟",
+          "file": "23_哎哟.mp3"
+        },
+        {
+          "sequence": 24,
+          "name": "你好烦",
+          "file": "24_你好烦.mp3"
+        },
+        {
+          "sequence": 25,
+          "name": "鸡你太美",
+          "file": "25_鸡你太美.mp3"
+        },
+        {
+          "sequence": 26,
+          "name": "你干嘛哈哈哎哟",
+          "file": "26_你干嘛哈哈哎哟.mp3"
+        },
+        {
+          "sequence": 27,
+          "name": "哟哎哈哈嘛干你",
+          "file": "27_哟哎哈哈嘛干你.mp3"
+        }
+      ]
+    },
+    {
+      "name": "雷音盒",
+      "sounds": [
+        {
+          "sequence": 1,
+          "name": "Are You OK?",
+          "file": "RUOK.mp3"
+        },
+        {
+          "sequence": 2,
+          "name": "友商是傻逼",
+          "file": "友商是傻逼.mp3"
+        },
+        {
+          "sequence": 3,
+          "name": "是不是碉堡了",
+          "file": "是不是碉堡了.mp3"
+        },
+        {
+          "sequence": 4,
+          "name": "屌不屌",
+          "file": "屌不屌.mp3"
+        }
+      ]
+    },
+    {
+      "name": "大嘴盒",
+      "sounds": [
+        {
+          "sequence": 1,
+          "name": "遥遥领先",
+          "file": "遥遥领先.mp3"
+        },
+        {
+          "sequence": 2,
+          "name": "啊这个这个啊",
+          "file": "啊这个这个啊.mp3"
+        },
+        {
+          "sequence": 3,
+          "name": "1000万以内最好的",
+          "file": "1000万以内最好的.mp3"
+        },
+        {
+          "sequence": 4,
+          "name": "卧槽这么好的车",
+          "file": "卧槽这么好的车.mp3"
+        },
+        {
+          "sequence": 5,
+          "name": "竹知了",
+          "file": "竹知了.mp3"
+        }
+      ]
+    }
+  ]
+}
