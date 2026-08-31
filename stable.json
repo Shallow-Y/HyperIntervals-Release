@@ -1,27 +1,43 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionName": "1.1.8",
-  "versionCode": 119,
-  "tagName": "v1.1.8",
-  "title": "HyperIntervals 1.1 正式版",
+  "versionName": "1.2.0",
+  "versionCode": 120,
+  "tagName": "v1.2.0",
+  "title": "HyperIntervals 1.2 正式版",
   "changelog": [
-    "HyperIntervals 1.1 正式版更新，本次更新后软件接入安卓公平运行内存机制，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "HyperIntervals 1.2 正式版更新，本次更新后完善工具交互体验，同时带来了娱乐工具，妙趣横生，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "新增 适配公平运行内存机制",
-    "新增 支持管理已安装的软件",
-    "优化 适配部分应用导出 apks 安装包",
-    "优化 分享多个应用安装包时自动打包成压缩包"
+    "新增 娱乐工具-今日人品，每日点击预测当天的人品值",
+    "新增 娱乐工具-手上“震动模拟器”，参数可调节，体验更真实",
+    "新增 娱乐工具-音效盒，现已上线鸡音盒和雷音盒，更多音效敬请等待云端推送",
+    "新增 支持一键查询小米设备的系统更新包",
+    "新增 快捷功能，一键启动澎湃OS隐藏的功能入口",
+    "新增 快捷功能中加入MIUI实验室和小爱课程表等隐藏入口",
+    "新增 支持云端热更新能力，目前已适配公告，音效盒",
+    "新增 主页小工具开关，不喜欢的可以一键关闭",
+    "优化 大屏端显示效果升级，各二级页支持平行窗口显示",
+    "优化 深色模式切换按钮视觉效果升级",
+    "优化 深色模式下开屏显示效果",
+    "优化 抓取日志的引导流程",
+    "优化 长按应用工具栏的显示效果",
+    "优化 设备卡片显示的设备型号规则",
+    "优化 液态玻璃悬浮导航栏距离系统导航栏的位置",
+    "修复 部分场景下安卓导航栏不沉浸的问题",
+    "修复 部分场景下应用内无法联网的问题",
+    "修复 部分已知问题",
+    "",
+    "* 1.2版本更新后，将会放缓新功能的加入，未来的版本也会以解决问题和优化体验为主"
   ],
-  "publishedAt": "2026-08-28",
+  "publishedAt": "2026-08-31",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.1.8",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.1.8/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.2.0",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.2.0/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.1.8",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.1.8/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.2.0",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.2.0/app-release.apk"
     }
   }
 }
