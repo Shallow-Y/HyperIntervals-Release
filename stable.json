@@ -1,27 +1,37 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionName": "1.2.1",
-  "versionCode": 121,
-  "tagName": "v1.2.1",
+  "versionName": "1.2.2",
+  "versionCode": 122,
+  "tagName": "v1.2.2",
   "title": "HyperIntervals 1.2 正式版",
   "changelog": [
-    "HyperIntervals 1.2 正式版更新，本次更新后修复了液态玻璃模式下的问题，同时为系统属性查询提升便利性，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "HyperIntervals 1.2 正式版更新，本次更新后升级了应用组件版本，优化了软件使用体验，同时对系统更新包查询工具进行修复，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "新增 系统属性查询支持记录当前属性，一键对比快照",
-    "新增 反馈通道增加 GitHub Issues，路径「设置→关于应用→项目反馈」",
-    "优化 软件更新页视觉效果焕新",
-    "修复 液态玻璃场景下关闭小工具后异常进入小工具页的问题"
+    "新增 APK安装器，兼容多种apk格式一键调用系统安装器，同时支持Shizuku静默安装 *",
+    "优化 将软件内Miuix组件库版本升级至v0.9.4-rc01",
+    "优化 液态玻璃模式下的渐变模糊更换为Miuix版本",
+    "优化 液态玻璃模式下的渐变模糊的渲染逻辑",
+    "优化 经典模式下的底部导航栏更换为悬浮样式",
+    "优化 经典模式下的模糊效果",
+    "优化 主页切换页面后列表的滑动状态可被记录",
+    "优化 数据页筛选按钮位置整合到右侧下拉菜单中",
+    "优化 补全液态玻璃模式下的交互高光效果",
+    "优化 补全系统更新包查询工具的本地设备列表",
+    "修复 液态玻璃模式下渐变模糊渲染异常的问题",
+    "修复 液态玻璃模式下主页顶部按钮拖动时被裁切的问题",
+    "修复 系统更新包查询工具无法查询澎湃OS1或MIUI版本的问题",
+    "* 系统安装器模式下，apks格式的安装包仅支持“应用包管理组件-5.4.1.0.0”及以上版本，QQ等第三方软件可以直接选择此应用跳转系统安装器"
   ],
-  "publishedAt": "2026-09-01",
+  "publishedAt": "2026-09-03",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.2.1",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.2.1/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.2.2",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.2.2/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.2.1",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.2.1/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.2.2",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.2.2/app-release.apk"
     }
   }
 }
