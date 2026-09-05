@@ -1,37 +1,27 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionName": "1.2.2",
-  "versionCode": 122,
-  "tagName": "v1.2.2",
-  "title": "HyperIntervals 1.2 正式版",
+  "versionName": "26.9.3",
+  "versionCode": 2026090503,
+  "tagName": "v26.9.3",
+  "title": "HyperIntervals 正式版",
   "changelog": [
-    "HyperIntervals 1.2 正式版更新，本次更新后升级了应用组件版本，优化了软件使用体验，同时对系统更新包查询工具进行修复，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "HyperIntervals 正式版更新，本次更新后优化了用户的使用体验，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "新增 APK安装器，兼容多种apk格式一键调用系统安装器，同时支持Shizuku静默安装 *",
-    "优化 将软件内Miuix组件库版本升级至v0.9.4-rc01",
-    "优化 液态玻璃模式下的渐变模糊更换为Miuix版本",
-    "优化 液态玻璃模式下的渐变模糊的渲染逻辑",
-    "优化 经典模式下的底部导航栏更换为悬浮样式",
-    "优化 经典模式下的模糊效果",
-    "优化 主页切换页面后列表的滑动状态可被记录",
-    "优化 数据页筛选按钮位置整合到右侧下拉菜单中",
-    "优化 补全液态玻璃模式下的交互高光效果",
-    "优化 补全系统更新包查询工具的本地设备列表",
-    "修复 液态玻璃模式下渐变模糊渲染异常的问题",
-    "修复 液态玻璃模式下主页顶部按钮拖动时被裁切的问题",
-    "修复 系统更新包查询工具无法查询澎湃OS1或MIUI版本的问题",
-    "* 系统安装器模式下，apks格式的安装包仅支持“应用包管理组件-5.4.1.0.0”及以上版本，QQ等第三方软件可以直接选择此应用跳转系统安装器"
+    "新增 APK安装器在选择Shizuku安装器时可显示Shizuku的连接状态，同时支持一键授权",
+    "优化 数据页筛选弹窗视觉效果焕新",
+    "修复 液态玻璃模式下底部弹窗异常渲染高光效果的问题",
+    "修复 液态玻璃模式下部分顶部按钮拖动时被裁切的问题"
   ],
-  "publishedAt": "2026-09-03",
+  "publishedAt": "2026-09-05",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.2.2",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.2.2/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.9.3",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.9.3/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.2.2",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.2.2/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.9.3",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.9.3/app-release.apk"
     }
   }
 }
