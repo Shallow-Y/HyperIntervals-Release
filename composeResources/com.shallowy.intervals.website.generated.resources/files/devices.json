@@ -1,0 +1,6522 @@
+{
+  "generatedAt": "2026-09-05T06:56:42+00:00",
+  "aer": [
+    {
+      "name": "REDMI A7 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2026-04",
+      "updateEndDate": "2032-04",
+      "updateFrequency": "90天",
+      "initialOs": "Android 16",
+      "futureOs": "Android 17,Android 18,Android 19,Android 20",
+      "active": true
+    },
+    {
+      "name": "REDMI Pad 2 9.7",
+      "brand": "REDMI",
+      "releaseDate": "2026-04",
+      "updateEndDate": "2033-04",
+      "updateFrequency": "90天",
+      "initialOs": "Android 16",
+      "futureOs": "Android 17,Android 18,Android 19,Android 20，Android 21",
+      "active": true
+    },
+    {
+      "name": "REDMI Pad 2 9.7 4G",
+      "brand": "REDMI",
+      "releaseDate": "2026-04",
+      "updateEndDate": "2029-04",
+      "updateFrequency": "90天",
+      "initialOs": "Android 16",
+      "futureOs": "Android 17,Android 18",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 17",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-02",
+      "updateEndDate": "2032-02",
+      "updateFrequency": "90天",
+      "initialOs": "Android 16",
+      "futureOs": "Android 17,Android 18,Android 19,Android 20,Android 21",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 17 Ultra by Leica",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-02",
+      "updateEndDate": "2032-02",
+      "updateFrequency": "90天",
+      "initialOs": "Android 16",
+      "futureOs": "Android 17,Android 18,Android 19,Android 20,Android 21",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 17 Ultra",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-02",
+      "updateEndDate": "2032-02",
+      "updateFrequency": "90天",
+      "initialOs": "Android 16",
+      "futureOs": "Android 17,Android 18,Android 19,Android 20,Android 21",
+      "active": true
+    },
+    {
+      "name": "Xiaomi Pad 8 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-02",
+      "updateEndDate": "2032-03",
+      "updateFrequency": "90天",
+      "initialOs": "Android 16",
+      "futureOs": "Android 17,Android 18,Android 19,Android 20",
+      "active": true
+    },
+    {
+      "name": "Xiaomi Pad 8",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-02",
+      "updateEndDate": "2032-03",
+      "updateFrequency": "90天",
+      "initialOs": "Android 16",
+      "futureOs": "Android 17,Android 18,Android 19,Android 20",
+      "active": true
+    },
+    {
+      "name": "REDMI Note 15 Pro 5G",
+      "brand": "REDMI",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2032-01",
+      "updateFrequency": "90天",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19",
+      "active": true
+    },
+    {
+      "name": "REDMI Note 15 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2032-01",
+      "updateFrequency": "90天",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19",
+      "active": true
+    },
+    {
+      "name": "REDMI Note 15 Pro+ 5G",
+      "brand": "REDMI",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2032-01",
+      "updateFrequency": "90天",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19",
+      "active": true
+    },
+    {
+      "name": "REDMI Note 15 5G",
+      "brand": "REDMI",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2032-01",
+      "updateFrequency": "90天",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19",
+      "active": true
+    },
+    {
+      "name": "REDMI Note 15",
+      "brand": "REDMI",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2032-01",
+      "updateFrequency": "90天",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19",
+      "active": true
+    },
+    {
+      "name": "Xiaomi Pad 7 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-3",
+      "updateEndDate": "2028-3",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17",
+      "active": true
+    },
+    {
+      "name": "Xiaomi Pad 7",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-3",
+      "updateEndDate": "2031-3",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 15 Ultra",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-2",
+      "updateEndDate": "2031-2",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 15",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-2",
+      "updateEndDate": "2031-2",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,,Android 17,Android 18,Android 19",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 14 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2025-1",
+      "updateEndDate": "2029-1",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android 16,Android 17",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 14",
+      "brand": "REDMI",
+      "releaseDate": "2025-1",
+      "updateEndDate": "2031-1",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android 16,Android 17,Android 18",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 14 5G",
+      "brand": "REDMI",
+      "releaseDate": "2025-1",
+      "updateEndDate": "2029-1",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android16",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 14 Pro 5G",
+      "brand": "REDMI",
+      "releaseDate": "2025-1",
+      "updateEndDate": "2029-1",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android 16,Android 17",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 14 Pro+ 5G",
+      "brand": "REDMI",
+      "releaseDate": "2025-1",
+      "updateEndDate": "2029-1",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android 16,Android 17",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 15T",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2031-09",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 15T Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2031-09",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19,Android 20",
+      "active": true
+    },
+    {
+      "name": "Redmi 15C 5G",
+      "brand": "REDMI",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2031-09",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19",
+      "active": true
+    },
+    {
+      "name": "Redmi 15C",
+      "brand": "REDMI",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2031-10",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19",
+      "active": true
+    },
+    {
+      "name": "Redmi 15",
+      "brand": "REDMI",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2029-10",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad 2 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2032-10",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19,Android 20",
+      "active": true
+    },
+    {
+      "name": "REDMI K Pad",
+      "brand": "REDMI",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2028-09",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad 2 Pro 5G",
+      "brand": "REDMI",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2032-06",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19,Android 20",
+      "active": true
+    },
+    {
+      "name": "Redmi 15 5G",
+      "brand": "REDMI",
+      "releaseDate": "2025-08",
+      "updateEndDate": "2029-08",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad 2",
+      "brand": "REDMI",
+      "releaseDate": "2025-06",
+      "updateEndDate": "2032-8",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19,Android 20",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad 2 4G",
+      "brand": "REDMI",
+      "releaseDate": "2025-06",
+      "updateEndDate": "2032-7",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 15",
+      "futureOs": "Android 16,Android 17,Android 18,Android 19,Android 20",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 14T",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-9",
+      "updateEndDate": "2029-9",
+      "updateFrequency": "4+5",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android16,Android 17,Android 18",
+      "active": true
+    },
+    {
+      "name": "Redmi K70 Ultra",
+      "brand": "REDMI",
+      "releaseDate": "2024-9",
+      "updateEndDate": "2029-9",
+      "updateFrequency": "4+5",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android16,Android 17,Android 18",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad Pro 5G",
+      "brand": "REDMI",
+      "releaseDate": "2024-8",
+      "updateEndDate": "2027-08",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android16",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad SE 8.7",
+      "brand": "REDMI",
+      "releaseDate": "2024-8",
+      "updateEndDate": "2027-8",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android16",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad SE 8.7 4G",
+      "brand": "REDMI",
+      "releaseDate": "2024-8",
+      "updateEndDate": "2027-8",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android16",
+      "active": true
+    },
+    {
+      "name": "Redmi 14C",
+      "brand": "REDMI",
+      "releaseDate": "2024-8",
+      "updateEndDate": "2028-8",
+      "updateFrequency": "2+4",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android16",
+      "active": true
+    },
+    {
+      "name": "Redmi 13C 5G",
+      "brand": "REDMI",
+      "releaseDate": "2024-5",
+      "updateEndDate": "2028-4",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 13",
+      "futureOs": "Android 14,Android 15",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad Pro",
+      "brand": "REDMI",
+      "releaseDate": "2024-5",
+      "updateEndDate": "2027-05",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android16",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 14",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-2",
+      "updateEndDate": "2029-2",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android 16,,Android 17,Android 18",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 14 Ultra",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-2",
+      "updateEndDate": "2029-2",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android 16,,Android 17,Android 18",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 13 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2024-1",
+      "updateEndDate": "2028-1",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 13,",
+      "futureOs": "Android 14,Android 15,Android 16",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 13 Pro 5G",
+      "brand": "REDMI",
+      "releaseDate": "2024-1",
+      "updateEndDate": "2027-9",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 13",
+      "futureOs": "Android 14,Android 15,Android 16",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 13 Pro+ 5G",
+      "brand": "REDMI",
+      "releaseDate": "2024-1",
+      "updateEndDate": "2028-1",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 13",
+      "futureOs": "Android 14,Android 15,Android 16",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 13 5G",
+      "brand": "REDMI",
+      "releaseDate": "2024-1",
+      "updateEndDate": "2027-9",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 13",
+      "futureOs": "Android 14,Android 15",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 13",
+      "brand": "REDMI",
+      "releaseDate": "2024-1",
+      "updateEndDate": "2028-1",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 13",
+      "futureOs": "Android 14，Android 15",
+      "active": true
+    },
+    {
+      "name": "Redmi 13",
+      "brand": "REDMI",
+      "releaseDate": "2024-06",
+      "updateEndDate": "2028-06",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 14",
+      "futureOs": "Android 15,Android16",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad SE",
+      "brand": "REDMI",
+      "releaseDate": "2023-9",
+      "updateEndDate": "2026-9",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 13",
+      "futureOs": "Android 13,Android 14",
+      "active": true
+    },
+    {
+      "name": "Redmi 12 5G",
+      "brand": "REDMI",
+      "releaseDate": "2023-9",
+      "updateEndDate": "2027-12",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 13",
+      "futureOs": "Android 14,Android 15",
+      "active": true
+    },
+    {
+      "name": "Redmi K60 Ultra",
+      "brand": "REDMI",
+      "releaseDate": "2023-9",
+      "updateEndDate": "2028-7",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 13",
+      "futureOs": "Android 14,Android 15,Android 16,Android 17",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 13T",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-9",
+      "updateEndDate": "2028-7",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 13",
+      "futureOs": "Android 14,Android 15,Android 16,Android 17",
+      "active": true
+    },
+    {
+      "name": "Redmi 12",
+      "brand": "REDMI",
+      "releaseDate": "2023-6",
+      "updateEndDate": "2027-6",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 13",
+      "futureOs": "Android 14,Android 15",
+      "active": true
+    },
+    {
+      "name": "Xiaomi Pad 6",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-6",
+      "updateEndDate": "2026-6",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 13",
+      "futureOs": "Android 14",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 12 5G",
+      "brand": "REDMI",
+      "releaseDate": "2023-3",
+      "updateEndDate": "2026-3",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13，Android 14",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 12",
+      "brand": "REDMI",
+      "releaseDate": "2023-3",
+      "updateEndDate": "2027-3",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 13",
+      "futureOs": "Android 14，Android 15，",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 13 Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-2-26",
+      "updateEndDate": "2026-8",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13,Android 14,Android 15",
+      "active": true
+    },
+    {
+      "name": "Redmi 12/12R 5G/Note 12R",
+      "brand": "REDMI",
+      "releaseDate": "2023-12",
+      "updateEndDate": "2026-9",
+      "updateFrequency": "90 DAYS",
+      "initialOs": "Android 13，",
+      "futureOs": "Android 14，Android 15",
+      "active": true
+    },
+    {
+      "name": "Redmi 13C",
+      "brand": "REDMI",
+      "releaseDate": "2023-11",
+      "updateEndDate": "2027-11",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 13",
+      "futureOs": "Android 14,Android 15",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 11 SE",
+      "brand": "REDMI",
+      "releaseDate": "2023-1",
+      "updateEndDate": "2025-1",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13,Android 14",
+      "active": false
+    },
+    {
+      "name": "Redmi 12C",
+      "brand": "REDMI",
+      "releaseDate": "2023-1",
+      "updateEndDate": "2027-1",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13;Android 14",
+      "active": true
+    },
+    {
+      "name": "POCO C55",
+      "brand": "POCO",
+      "releaseDate": "2023-1",
+      "updateEndDate": "2027-1",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13;Android 14",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 12T",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-8",
+      "updateEndDate": "2026-8",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13,Android 14,Android 15",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 12 Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-7",
+      "updateEndDate": "2026-3",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13,Android 14",
+      "active": true
+    },
+    {
+      "name": "POCO M5s",
+      "brand": "POCO",
+      "releaseDate": "2022-6",
+      "updateEndDate": "2024-7",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13",
+      "active": false
+    },
+    {
+      "name": "POCO M4 5G",
+      "brand": "POCO",
+      "releaseDate": "2022-4",
+      "updateEndDate": "2025-4",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13，Android 14",
+      "active": false
+    },
+    {
+      "name": "Redmi 10 5G",
+      "brand": "REDMI",
+      "releaseDate": "2022-4",
+      "updateEndDate": "2025-4",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13,Android 14",
+      "active": false
+    },
+    {
+      "name": "Redmi 11 Prime 5G",
+      "brand": "REDMI",
+      "releaseDate": "2022-4",
+      "updateEndDate": "2025-4",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13,Android 14",
+      "active": false
+    },
+    {
+      "name": "Xiaomi 12 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-3",
+      "updateEndDate": "2026-1",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13;Android 14;Android 15",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 12",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-3",
+      "updateEndDate": "2026-1",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13;Android 14;Android 15",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 11S 5G",
+      "brand": "REDMI",
+      "releaseDate": "2022-3",
+      "updateEndDate": "2025-1",
+      "updateFrequency": "90 days",
+      "initialOs": "Android  11",
+      "futureOs": "Android  12,Android 13",
+      "active": false
+    },
+    {
+      "name": "Redmi 10C",
+      "brand": "REDMI",
+      "releaseDate": "2022-2",
+      "updateEndDate": "2025-2",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 11;",
+      "futureOs": "Android 12;Android 13;",
+      "active": false
+    },
+    {
+      "name": "Redmi K50 Ultra",
+      "brand": "REDMI",
+      "releaseDate": "2022-10",
+      "updateEndDate": "2026-8",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13,Android 14,Android 15",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad",
+      "brand": "REDMI",
+      "releaseDate": "2022-10",
+      "updateEndDate": "2025-7",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13,Android 14",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 12 Pro 5G",
+      "brand": "REDMI",
+      "releaseDate": "2022-10",
+      "updateEndDate": "2026-10",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13;Android 14",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 12 Pro+ 5G",
+      "brand": "REDMI",
+      "releaseDate": "2022-10",
+      "updateEndDate": "2026-10",
+      "updateFrequency": "90 Days",
+      "initialOs": "Android 12",
+      "futureOs": "Android 13;Android 14",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 11S",
+      "brand": "REDMI",
+      "releaseDate": "2022-1",
+      "updateEndDate": "2025-1",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12,Android 13",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 11",
+      "brand": "REDMI",
+      "releaseDate": "2022-1",
+      "updateEndDate": "2025-1",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12,Android 13",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 11 Pro 5G",
+      "brand": "REDMI",
+      "releaseDate": "2022-1",
+      "updateEndDate": "2025-1",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12,Android 13",
+      "active": false
+    },
+    {
+      "name": "POCO M4 Pro",
+      "brand": "POCO",
+      "releaseDate": "2022-1",
+      "updateEndDate": "2025-1",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12;Android 13",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 11 Pro+ 5G",
+      "brand": "REDMI",
+      "releaseDate": "2022-1",
+      "updateEndDate": "2025-1",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Andoid 12;Android 13",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 11E Pro",
+      "brand": "REDMI",
+      "releaseDate": "2022-1",
+      "updateEndDate": "2025-1",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12;Android 13",
+      "active": false
+    },
+    {
+      "name": "Xiaomi 11 Lite 5G NE",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-9",
+      "updateEndDate": "2025-8",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12,Android 13,Android 14",
+      "active": false
+    },
+    {
+      "name": "Xiaomi 11T Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-8",
+      "updateEndDate": "2025-8",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12,Android 13,Android 14",
+      "active": false
+    },
+    {
+      "name": "Xiaomi 11T",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-8",
+      "updateEndDate": "2025-8",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12,Android 13,Android 14",
+      "active": false
+    },
+    {
+      "name": "Redmi 10",
+      "brand": "REDMI",
+      "releaseDate": "2021-8",
+      "updateEndDate": "2024-8",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Andriod 11",
+      "futureOs": "Andriod 12,Andriod 13",
+      "active": false
+    },
+    {
+      "name": "POCO M3 Pro 5G",
+      "brand": "POCO",
+      "releaseDate": "2021-4",
+      "updateEndDate": "2024-4",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12,Android 13",
+      "active": false
+    },
+    {
+      "name": "Redmi 10 2022",
+      "brand": "REDMI",
+      "releaseDate": "2021-12",
+      "updateEndDate": "2024-12",
+      "updateFrequency": "90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12,Android 13",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 10 5G",
+      "brand": "REDMI",
+      "releaseDate": "2021-04",
+      "updateEndDate": "2024-04",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12,Android 13",
+      "active": false
+    },
+    {
+      "name": "Mi 11 Ultra",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-04",
+      "updateEndDate": "2025-03",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12,Android 13,Android 14",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 10S",
+      "brand": "REDMI",
+      "releaseDate": "2021-04",
+      "updateEndDate": "2024-04",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12,Android 13",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 10T 5G",
+      "brand": "REDMI",
+      "releaseDate": "2021-04",
+      "updateEndDate": "2024-04",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12",
+      "active": false
+    },
+    {
+      "name": "Mi 11 Lite 5G",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-04",
+      "updateEndDate": "2024-04",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12,Android 13",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 10 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2021-03",
+      "updateEndDate": "2024-03",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12,Android 13",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 10 Pro Max",
+      "brand": "REDMI",
+      "releaseDate": "2021-03",
+      "updateEndDate": "2024-03",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12,Android 13",
+      "active": false
+    },
+    {
+      "name": "Redmi 9T",
+      "brand": "REDMI",
+      "releaseDate": "2020-12",
+      "updateEndDate": "2023-12",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 11",
+      "futureOs": "Android 12",
+      "active": false
+    },
+    {
+      "name": "Mi 10T",
+      "brand": "Xiaomi",
+      "releaseDate": "2020-10",
+      "updateEndDate": "2023-10",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 10",
+      "futureOs": "Android 11,Android 12",
+      "active": false
+    },
+    {
+      "name": "Mi 10T Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2020-10",
+      "updateEndDate": "2023-10",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 10",
+      "futureOs": "Android 11,Android 12",
+      "active": false
+    },
+    {
+      "name": "Mi 10T Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2020-10",
+      "updateEndDate": "2023-10",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 10",
+      "futureOs": "Android 11,Android 12",
+      "active": false
+    },
+    {
+      "name": "Redmi 9",
+      "brand": "REDMI",
+      "releaseDate": "2020-06",
+      "updateEndDate": "2023-06",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 10",
+      "futureOs": "Android 11,Android 12",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 9 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2020-05",
+      "updateEndDate": "2023-05",
+      "updateFrequency": "Every 90 days",
+      "initialOs": "Android 10",
+      "futureOs": "Android 11,Android 12",
+      "active": false
+    }
+  ],
+  "productSupport": [
+    {
+      "name": "REDMI 17",
+      "brand": "REDMI",
+      "releaseDate": "2026-08",
+      "updateEndDate": "2032-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI 17 5G",
+      "brand": "REDMI",
+      "releaseDate": "2026-08",
+      "updateEndDate": "2032-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "POCO C81 Pro",
+      "brand": "POCO",
+      "releaseDate": "2026-06",
+      "updateEndDate": "2032-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 17T Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-05",
+      "updateEndDate": "2032-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 17T",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-05",
+      "updateEndDate": "2032-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI Pad 2 9.7 4G",
+      "brand": "REDMI",
+      "releaseDate": "2026-04",
+      "updateEndDate": "2029-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI Pad 2 9.7",
+      "brand": "REDMI",
+      "releaseDate": "2026-04",
+      "updateEndDate": "2033-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI A7 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2026-04",
+      "updateEndDate": "2032-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI Turbo 5",
+      "brand": "REDMI",
+      "releaseDate": "2026-03",
+      "updateEndDate": "2032-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI Turbo 5 Max",
+      "brand": "REDMI",
+      "releaseDate": "2026-03",
+      "updateEndDate": "2032-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 17",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-02",
+      "updateEndDate": "2032-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 17 Ultra by Leica",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-02",
+      "updateEndDate": "2032-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 17 Ultra",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-02",
+      "updateEndDate": "2032-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI Note 15 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2032-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI Note 15 Pro 5G",
+      "brand": "REDMI",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2032-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI Note 15 5G",
+      "brand": "REDMI",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2032-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI Note 15 Pro+ 5G",
+      "brand": "REDMI",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2032-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI Note 15",
+      "brand": "REDMI",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2032-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "POCO M8 5G",
+      "brand": "POCO",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2032-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "POCO M8 Pro 5G",
+      "brand": "POCO",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2032-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI K90 Pro Max",
+      "brand": "REDMI",
+      "releaseDate": "2025-11",
+      "updateEndDate": "2031-11",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI K90",
+      "brand": "REDMI",
+      "releaseDate": "2025-11",
+      "updateEndDate": "2031-11",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi 15C 5G",
+      "brand": "REDMI",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2031-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi 15",
+      "brand": "REDMI",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2029-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad 2 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2029-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad 2 Pro 5G",
+      "brand": "REDMI",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2029-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "POCO Pad M1",
+      "brand": "POCO",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2029-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "POCO M7",
+      "brand": "POCO",
+      "releaseDate": "2025-08",
+      "updateEndDate": "2031-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 15T",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2031-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 15T Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2031-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "POCO C85",
+      "brand": "POCO",
+      "releaseDate": "2025-08",
+      "updateEndDate": "2031-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi 15C",
+      "brand": "REDMI",
+      "releaseDate": "2025-08",
+      "updateEndDate": "2031-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi 15 5G",
+      "brand": "REDMI",
+      "releaseDate": "2025-08",
+      "updateEndDate": "2029-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI Turbo 4 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2025-06",
+      "updateEndDate": "2031-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad 2 4G",
+      "brand": "REDMI",
+      "releaseDate": "2025-06",
+      "updateEndDate": "2032-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad 2",
+      "brand": "REDMI",
+      "releaseDate": "2025-06",
+      "updateEndDate": "2032-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI A5",
+      "brand": "REDMI",
+      "releaseDate": "2025-05",
+      "updateEndDate": "2029-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "POCO M7 Pro 5G",
+      "brand": "POCO",
+      "releaseDate": "2025-04",
+      "updateEndDate": "2029-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI K80",
+      "brand": "REDMI",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2031-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI K80 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2031-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 15 Ultra",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2031-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 15",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2031-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi Pad 7",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2028-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi Pad 7 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2028-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 14 5G",
+      "brand": "REDMI",
+      "releaseDate": "2025-01",
+      "updateEndDate": "2029-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 14 Pro 5G",
+      "brand": "REDMI",
+      "releaseDate": "2025-01",
+      "updateEndDate": "2029-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "POCO X7",
+      "brand": "POCO",
+      "releaseDate": "2025-01",
+      "updateEndDate": "2029-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "REDMI Turbo 4",
+      "brand": "REDMI",
+      "releaseDate": "2025-01",
+      "updateEndDate": "2029-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 14",
+      "brand": "REDMI",
+      "releaseDate": "2025-01",
+      "updateEndDate": "2031-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 14 Pro+ 5G",
+      "brand": "REDMI",
+      "releaseDate": "2025-01",
+      "updateEndDate": "2029-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 14 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2025-01",
+      "updateEndDate": "2029-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "POCO C75",
+      "brand": "POCO",
+      "releaseDate": "2024-11",
+      "updateEndDate": "2028-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi 14C",
+      "brand": "REDMI",
+      "releaseDate": "2024-10",
+      "updateEndDate": "2028-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 14T",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-09",
+      "updateEndDate": "2029-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi K70 Ultra",
+      "brand": "REDMI",
+      "releaseDate": "2024-09",
+      "updateEndDate": "2029-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi MIX Flip",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-09",
+      "updateEndDate": "2029-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Pad SE 8.7 4G",
+      "brand": "REDMI",
+      "releaseDate": "2024-08",
+      "updateEndDate": "2026-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Pad SE 8.7",
+      "brand": "REDMI",
+      "releaseDate": "2024-08",
+      "updateEndDate": "2026-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Pad Pro 5G",
+      "brand": "REDMI",
+      "releaseDate": "2024-07",
+      "updateEndDate": "2027-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Turbo 3",
+      "brand": "REDMI",
+      "releaseDate": "2024-05",
+      "updateEndDate": "2028-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi 13",
+      "brand": "REDMI",
+      "releaseDate": "2024-05",
+      "updateEndDate": "2028-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi A3",
+      "brand": "REDMI",
+      "releaseDate": "2024-02",
+      "updateEndDate": "2027-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 14",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-02",
+      "updateEndDate": "2029-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 14 Ultra",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-03",
+      "updateEndDate": "2029-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 13",
+      "brand": "REDMI",
+      "releaseDate": "2024-01",
+      "updateEndDate": "2028-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 13 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2024-01",
+      "updateEndDate": "2028-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 13 5G",
+      "brand": "REDMI",
+      "releaseDate": "2024-01",
+      "updateEndDate": "2028-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 13 Pro 5G",
+      "brand": "REDMI",
+      "releaseDate": "2024-01",
+      "updateEndDate": "2028-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 13 Pro+ 5G",
+      "brand": "REDMI",
+      "releaseDate": "2024-01",
+      "updateEndDate": "2028-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi 13C",
+      "brand": "REDMI",
+      "releaseDate": "2023-11",
+      "updateEndDate": "2026-11",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi K60 Ultra",
+      "brand": "REDMI",
+      "releaseDate": "2023-10",
+      "updateEndDate": "2028-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 13T",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-10",
+      "updateEndDate": "2028-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 13 Ultra",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-06",
+      "updateEndDate": "2028-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 12S",
+      "brand": "REDMI",
+      "releaseDate": "2023-05",
+      "updateEndDate": "2027-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi 12",
+      "brand": "REDMI",
+      "releaseDate": "2023-06",
+      "updateEndDate": "2027-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 12 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2023-04",
+      "updateEndDate": "2026-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Xiaomi 13 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-03",
+      "updateEndDate": "2028-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 13",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-03",
+      "updateEndDate": "2028-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 13 Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-03",
+      "updateEndDate": "2027-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 12T",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-10",
+      "updateEndDate": "2026-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi K50 Ultra",
+      "brand": "REDMI",
+      "releaseDate": "2022-10",
+      "updateEndDate": "2026-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi 12C",
+      "brand": "REDMI",
+      "releaseDate": "2023-03",
+      "updateEndDate": "2026-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi A2",
+      "brand": "REDMI",
+      "releaseDate": "2023-03",
+      "updateEndDate": "2026-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi A2+",
+      "brand": "REDMI",
+      "releaseDate": "2023-03",
+      "updateEndDate": "2026-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi A1",
+      "brand": "REDMI",
+      "releaseDate": "2022-09",
+      "updateEndDate": "2025-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi A1+",
+      "brand": "REDMI",
+      "releaseDate": "2022-09",
+      "updateEndDate": "2025-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 12",
+      "brand": "REDMI",
+      "releaseDate": "2023-03",
+      "updateEndDate": "2027-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 12 5G",
+      "brand": "REDMI",
+      "releaseDate": "2023-03",
+      "updateEndDate": "2026-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 12 Pro 5G",
+      "brand": "REDMI",
+      "releaseDate": "2023-03",
+      "updateEndDate": "2027-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi Note 12 Pro+ 5G",
+      "brand": "REDMI",
+      "releaseDate": "2023-03",
+      "updateEndDate": "2027-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi 12 5G",
+      "brand": "REDMI",
+      "releaseDate": "2023-09",
+      "updateEndDate": "2027-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 12 Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-07",
+      "updateEndDate": "2026-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 10 5G",
+      "brand": "REDMI",
+      "releaseDate": "2022-07",
+      "updateEndDate": "2025-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 10C",
+      "brand": "REDMI",
+      "releaseDate": "2022-03",
+      "updateEndDate": "2025-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 10A",
+      "brand": "REDMI",
+      "releaseDate": "2022-04",
+      "updateEndDate": "2025-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 11",
+      "brand": "REDMI",
+      "releaseDate": "2022-01",
+      "updateEndDate": "2025-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 11S",
+      "brand": "REDMI",
+      "releaseDate": "2022-01",
+      "updateEndDate": "2025-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Xiaomi 12 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-03",
+      "updateEndDate": "2026-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Xiaomi 12",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-03",
+      "updateEndDate": "2026-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Xiaomi 12X",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-03",
+      "updateEndDate": "2025-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 11 Pro 5G",
+      "brand": "REDMI",
+      "releaseDate": "2022-02",
+      "updateEndDate": "2025-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 11 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2022-02",
+      "updateEndDate": "2025-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 11 Pro+ 5G",
+      "brand": "REDMI",
+      "releaseDate": "2022-04",
+      "updateEndDate": "2025-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 11S 5G",
+      "brand": "REDMI",
+      "releaseDate": "2022-04",
+      "updateEndDate": "2025-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "POCO M4 Pro 5G",
+      "brand": "POCO",
+      "releaseDate": "2021-11",
+      "updateEndDate": "2024-11",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 10 2022",
+      "brand": "REDMI",
+      "releaseDate": "2022-02",
+      "updateEndDate": "2025-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 11 Ultra",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-03",
+      "updateEndDate": "2025-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 11",
+      "brand": "Xiaomi",
+      "releaseDate": "2020-12",
+      "updateEndDate": "2024-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Xiaomi 11T Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-09",
+      "updateEndDate": "2025-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 10 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2021-03",
+      "updateEndDate": "2024-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 10",
+      "brand": "REDMI",
+      "releaseDate": "2021-03",
+      "updateEndDate": "2024-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 10S",
+      "brand": "REDMI",
+      "releaseDate": "2021-05",
+      "updateEndDate": "2024-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "MI 11 lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-03",
+      "updateEndDate": "2024-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 11 lite 5G",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-03",
+      "updateEndDate": "2024-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Xiaomi 11 Lite 5G NE",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-09",
+      "updateEndDate": "2025-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 11i",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-02",
+      "updateEndDate": "2025-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 11T",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-09",
+      "updateEndDate": "2025-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 10 5G",
+      "brand": "REDMI",
+      "releaseDate": "2021-06",
+      "updateEndDate": "2024-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 10 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2020-02",
+      "updateEndDate": "2023-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 10",
+      "brand": "Xiaomi",
+      "releaseDate": "2020-02",
+      "updateEndDate": "2023-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 10T Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2020-09",
+      "updateEndDate": "2023-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 10T",
+      "brand": "Xiaomi",
+      "releaseDate": "2020-09",
+      "updateEndDate": "2023-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 9S",
+      "brand": "REDMI",
+      "releaseDate": "2020-03",
+      "updateEndDate": "2023-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note9 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2020-05",
+      "updateEndDate": "2023-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 10 Lite 5G",
+      "brand": "Xiaomi",
+      "releaseDate": "2020-03",
+      "updateEndDate": "2023-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 9",
+      "brand": "REDMI",
+      "releaseDate": "2020-05",
+      "updateEndDate": "2023-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 10T Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2020-09",
+      "updateEndDate": "2023-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 9",
+      "brand": "REDMI",
+      "releaseDate": "2020-06",
+      "updateEndDate": "2023-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 9T",
+      "brand": "REDMI",
+      "releaseDate": "2021-03",
+      "updateEndDate": "2024-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 9T",
+      "brand": "REDMI",
+      "releaseDate": "2020-11",
+      "updateEndDate": "2023-11",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 9A",
+      "brand": "REDMI",
+      "releaseDate": "2020-07",
+      "updateEndDate": "2023-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 9AT",
+      "brand": "REDMI",
+      "releaseDate": "2020-07",
+      "updateEndDate": "2023-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 9C",
+      "brand": "REDMI",
+      "releaseDate": "2020-08",
+      "updateEndDate": "2023-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 9C NFC",
+      "brand": "REDMI",
+      "releaseDate": "2020-09",
+      "updateEndDate": "2023-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "POCO X6 Pro",
+      "brand": "POCO",
+      "releaseDate": "2024-01",
+      "updateEndDate": "2028-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "POCO X6 5G",
+      "brand": "POCO",
+      "releaseDate": "2024-01",
+      "updateEndDate": "2028-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "POCO M6 Pro",
+      "brand": "POCO",
+      "releaseDate": "2024-01",
+      "updateEndDate": "2028-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "POCO C65",
+      "brand": "POCO",
+      "releaseDate": "2023-11",
+      "updateEndDate": "2026-11",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Redmi K60",
+      "brand": "REDMI",
+      "releaseDate": "2023-05",
+      "updateEndDate": "2026-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 12 Turbo",
+      "brand": "REDMI",
+      "releaseDate": "2023-05",
+      "updateEndDate": "2026-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 12 Pro Speed",
+      "brand": "REDMI",
+      "releaseDate": "2023-02",
+      "updateEndDate": "2026-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "POCO X5 5G",
+      "brand": "POCO",
+      "releaseDate": "2023-02",
+      "updateEndDate": "2027-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "POCO C40",
+      "brand": "POCO",
+      "releaseDate": "2022-06",
+      "updateEndDate": "2025-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 11E Pro",
+      "brand": "REDMI",
+      "releaseDate": "2022-03",
+      "updateEndDate": "2025-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 11 Prime 4G",
+      "brand": "REDMI",
+      "releaseDate": "2022-09",
+      "updateEndDate": "2025-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi K40S",
+      "brand": "REDMI",
+      "releaseDate": "2022-06",
+      "updateEndDate": "2025-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 11T Pro/Pro+",
+      "brand": "REDMI",
+      "releaseDate": "2022-06",
+      "updateEndDate": "2025-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi K50 Gaming",
+      "brand": "REDMI",
+      "releaseDate": "2022-04",
+      "updateEndDate": "2025-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Pad SE",
+      "brand": "REDMI",
+      "releaseDate": "2023-08",
+      "updateEndDate": "2026-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Xiaomi Pad 6",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-07",
+      "updateEndDate": "2026-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Pad",
+      "brand": "REDMI",
+      "releaseDate": "2022-10",
+      "updateEndDate": "2025-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 10",
+      "brand": "REDMI",
+      "releaseDate": "2021-11",
+      "updateEndDate": "2024-11",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 8 (2021)",
+      "brand": "REDMI",
+      "releaseDate": "2021-07",
+      "updateEndDate": "2024-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 10 Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2020-04",
+      "updateEndDate": "2023-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 8A",
+      "brand": "REDMI",
+      "releaseDate": "2019-10",
+      "updateEndDate": "2022-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 8T",
+      "brand": "REDMI",
+      "releaseDate": "2019-12",
+      "updateEndDate": "2022-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 4",
+      "brand": "REDMI",
+      "releaseDate": "2017-02",
+      "updateEndDate": "2020-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 5",
+      "brand": "REDMI",
+      "releaseDate": "2017-12",
+      "updateEndDate": "2020-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi A2 Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2018-09",
+      "updateEndDate": "2021-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi A1",
+      "brand": "Xiaomi",
+      "releaseDate": "2017-09",
+      "updateEndDate": "2020-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi A2",
+      "brand": "Xiaomi",
+      "releaseDate": "2018-07",
+      "updateEndDate": "2021-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 8 Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2018-09",
+      "updateEndDate": "2021-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi Max2",
+      "brand": "Xiaomi",
+      "releaseDate": "2017-07",
+      "updateEndDate": "2020-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi MIX 2",
+      "brand": "Xiaomi",
+      "releaseDate": "2017-10",
+      "updateEndDate": "2020-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi MIX 2S",
+      "brand": "Xiaomi",
+      "releaseDate": "2018-03",
+      "updateEndDate": "2021-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 5A",
+      "brand": "REDMI",
+      "releaseDate": "2017-08",
+      "updateEndDate": "2020-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Y1 Lite",
+      "brand": "REDMI",
+      "releaseDate": "2017-08",
+      "updateEndDate": "2020-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 5A Prime",
+      "brand": "REDMI",
+      "releaseDate": "2017-08",
+      "updateEndDate": "2020-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Y1",
+      "brand": "REDMI",
+      "releaseDate": "2017-08",
+      "updateEndDate": "2020-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 8",
+      "brand": "Xiaomi",
+      "releaseDate": "2018-05",
+      "updateEndDate": "2021-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 8 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2018-08",
+      "updateEndDate": "2021-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi MAX 3",
+      "brand": "Xiaomi",
+      "releaseDate": "2018-07",
+      "updateEndDate": "2021-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi MIX 3",
+      "brand": "Xiaomi",
+      "releaseDate": "2018-10",
+      "updateEndDate": "2021-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi MIX 3 5G",
+      "brand": "Xiaomi",
+      "releaseDate": "2018-10",
+      "updateEndDate": "2021-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi S2",
+      "brand": "REDMI",
+      "releaseDate": "2018-05",
+      "updateEndDate": "2021-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Y2",
+      "brand": "REDMI",
+      "releaseDate": "2018-05",
+      "updateEndDate": "2021-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 5 Plus",
+      "brand": "REDMI",
+      "releaseDate": "2017-12",
+      "updateEndDate": "2020-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 5",
+      "brand": "REDMI",
+      "releaseDate": "2017-12",
+      "updateEndDate": "2020-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 5 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2018-06",
+      "updateEndDate": "2021-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 6 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2018-10",
+      "updateEndDate": "2021-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 9",
+      "brand": "Xiaomi",
+      "releaseDate": "2019-02",
+      "updateEndDate": "2022-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 9 SE",
+      "brand": "Xiaomi",
+      "releaseDate": "2019-02",
+      "updateEndDate": "2022-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 9 Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2019-07",
+      "updateEndDate": "2021-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi Note 10",
+      "brand": "Xiaomi",
+      "releaseDate": "2019-11",
+      "updateEndDate": "2022-11",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi Note 10 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2019-11",
+      "updateEndDate": "2022-11",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi Note 10 Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2020-04",
+      "updateEndDate": "2023-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Lite Redmi 7",
+      "brand": "REDMI",
+      "releaseDate": "2019-04",
+      "updateEndDate": "2022-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 7",
+      "brand": "REDMI",
+      "releaseDate": "2019-03",
+      "updateEndDate": "2022-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 7 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2019-03",
+      "updateEndDate": "2022-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi play",
+      "brand": "Xiaomi",
+      "releaseDate": "2019-03",
+      "updateEndDate": "2022-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi A3",
+      "brand": "Xiaomi",
+      "releaseDate": "2019-08",
+      "updateEndDate": "2022-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 9T",
+      "brand": "Xiaomi",
+      "releaseDate": "2019-05",
+      "updateEndDate": "2022-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Note 8 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2019-09",
+      "updateEndDate": "2022-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi K30",
+      "brand": "REDMI",
+      "releaseDate": "2019-12",
+      "updateEndDate": "2022-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Mi 6",
+      "brand": "Xiaomi",
+      "releaseDate": "2017-04",
+      "updateEndDate": "2020-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 5A",
+      "brand": "REDMI",
+      "releaseDate": "2017-10",
+      "updateEndDate": "2020-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 6A",
+      "brand": "REDMI",
+      "releaseDate": "2018-08",
+      "updateEndDate": "2021-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 6",
+      "brand": "REDMI",
+      "releaseDate": "2018-10",
+      "updateEndDate": "2021-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 7A",
+      "brand": "REDMI",
+      "releaseDate": "2019-07",
+      "updateEndDate": "2022-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi Go",
+      "brand": "REDMI",
+      "releaseDate": "2019-03",
+      "updateEndDate": "2022-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi 8",
+      "brand": "REDMI",
+      "releaseDate": "2019-10",
+      "updateEndDate": "2022-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false
+    },
+    {
+      "name": "Redmi K70",
+      "brand": "REDMI",
+      "releaseDate": "2024-05",
+      "updateEndDate": "2028-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    }
+  ],
+  "iotSupport": [
+    {
+      "name": "米家空气净化器 6",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2027-11",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "环境电器"
+    },
+    {
+      "name": "米家空气净化器 6 Plus",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-06",
+      "updateEndDate": "2028-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "环境电器"
+    },
+    {
+      "name": "米家洗衣机",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-12",
+      "updateEndDate": "2028-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "洗烘一体机"
+    },
+    {
+      "name": "小米电动滑板车 6 Max",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-12",
+      "updateEndDate": "2028-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "户外"
+    },
+    {
+      "name": "小米电动滑板车 6 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-12",
+      "updateEndDate": "2029-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "户外"
+    },
+    {
+      "name": "小米电动滑板车 6",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-11",
+      "updateEndDate": "2028-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "户外"
+    },
+    {
+      "name": "Xiaomi Smart Camera C500",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2027-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "小米DIY智能门锁 Matter版",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-10",
+      "updateEndDate": "2028-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "门锁"
+    },
+    {
+      "name": "小米DIY智能门锁 Matter版 套装",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-10",
+      "updateEndDate": "2028-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "门锁"
+    },
+    {
+      "name": "小米电动滑板车 6 Ultra",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-11",
+      "updateEndDate": "2029-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "户外"
+    },
+    {
+      "name": "米家直流变频落地扇 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2027-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "环境电器"
+    },
+    {
+      "name": "小米电动滑板车 Elite",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-03",
+      "updateEndDate": "2028-11",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "户外"
+    },
+    {
+      "name": "小米电动滑板车 6 Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-03",
+      "updateEndDate": "2028-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "户外"
+    },
+    {
+      "name": "小米智能摄像机C302",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-10",
+      "updateEndDate": "2027-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "小米智能摄像机C201",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-08",
+      "updateEndDate": "2029-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "米家智能跳绳",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-11",
+      "updateEndDate": "2029-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "健康与健身"
+    },
+    {
+      "name": "米家体重秤 S200",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-01",
+      "updateEndDate": "2029-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "健康与健身"
+    },
+    {
+      "name": "小米室外摄像机基站",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-06",
+      "updateEndDate": "2028-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "Xiaomi分体露营灯",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2029-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "户外"
+    },
+    {
+      "name": "小米智能香氛机",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-11",
+      "updateEndDate": "2029-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "其他"
+    },
+    {
+      "name": "Xiaomi Bluetooth Speaker Essential",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2030-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "音箱"
+    },
+    {
+      "name": "Xiaomi K歌麦克风",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-02",
+      "updateEndDate": "2028-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "其他"
+    },
+    {
+      "name": "小米电视",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2029-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "电视 & 媒体"
+    },
+    {
+      "name": "小米电视",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2029-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "电视 & 媒体"
+    },
+    {
+      "name": "小米电视",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2029-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "电视 & 媒体"
+    },
+    {
+      "name": "小米电视",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2029-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "电视 & 媒体"
+    },
+    {
+      "name": "小米电视",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2029-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "电视 & 媒体"
+    },
+    {
+      "name": "小米电视",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2029-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "电视 & 媒体"
+    },
+    {
+      "name": "小米电视",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2029-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "电视 & 媒体"
+    },
+    {
+      "name": "小米电视",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2029-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "电视 & 媒体"
+    },
+    {
+      "name": "小米电视",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2029-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "电视 & 媒体"
+    },
+    {
+      "name": "小米电视",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2029-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "电视 & 媒体"
+    },
+    {
+      "name": "小米电视",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2029-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "电视 & 媒体"
+    },
+    {
+      "name": "米家冰箱十字门502L",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-01",
+      "updateEndDate": "2029-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "冰箱"
+    },
+    {
+      "name": "小米口袋照片打印机 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-07",
+      "updateEndDate": "2027-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "打印机"
+    },
+    {
+      "name": "小米智能温湿度计3 mini",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-05",
+      "updateEndDate": "2028-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "环境电器"
+    },
+    {
+      "name": "小米扫拖机器人 S40",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-07",
+      "updateEndDate": "2028-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "扫地机"
+    },
+    {
+      "name": "小米变焦落地自拍杆",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2028-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "其他"
+    },
+    {
+      "name": "小米支架式自拍杆 Mini版",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-09",
+      "updateEndDate": "2027-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "其他"
+    },
+    {
+      "name": "小米智能摄像机C701",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-07",
+      "updateEndDate": "2028-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "小米口袋照片打印机1S",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-04",
+      "updateEndDate": "2027-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "打印机"
+    },
+    {
+      "name": "小米智能除湿机 Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-08",
+      "updateEndDate": "2026-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "环境电器"
+    },
+    {
+      "name": "Xiaomi Robot Vacuum H40",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-07",
+      "updateEndDate": "2028-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "扫地机"
+    },
+    {
+      "name": "小米路由器BE3600",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-10",
+      "updateEndDate": "2027-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "路由器"
+    },
+    {
+      "name": "小米扫拖机器人 S40C",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-06",
+      "updateEndDate": "2028-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "扫地机"
+    },
+    {
+      "name": "Xiaomi Smart Projector L1 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-12",
+      "updateEndDate": "2026-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "其他"
+    },
+    {
+      "name": "Xiaomi Smart Projector L1",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-11",
+      "updateEndDate": "2026-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "其他"
+    },
+    {
+      "name": "小米室外摄像机CW100双摄版",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-06",
+      "updateEndDate": "2028-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "小米智能摄像机C100",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-05",
+      "updateEndDate": "2028-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "Redmi Buds 5 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2024-01",
+      "updateEndDate": "2026-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Xiaomi Buds 5 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2027-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Xiaomi Smart Band 10",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-06",
+      "updateEndDate": "2027-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Xiaomi Watch S4",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-03",
+      "updateEndDate": "2027-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Redmi Buds 6",
+      "brand": "REDMI",
+      "releaseDate": "2025-01",
+      "updateEndDate": "2027-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Redmi Buds 6 Pro",
+      "brand": "REDMI",
+      "releaseDate": "2025-01",
+      "updateEndDate": "2027-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Xiaomi Smart Band 9 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-10",
+      "updateEndDate": "2026-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "小米智能插座2",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-03",
+      "updateEndDate": "2025-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "插座"
+    },
+    {
+      "name": "米家体脂秤 S400",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-03",
+      "updateEndDate": "2029-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "健康与健身"
+    },
+    {
+      "name": "小米智能摄像机C700",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-09",
+      "updateEndDate": "2027-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "小米智能摄像机C500 Dual",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-09",
+      "updateEndDate": "2027-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "米家台灯2",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-08",
+      "updateEndDate": "2027-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "照明"
+    },
+    {
+      "name": "小米室外摄像机CW700S",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-09",
+      "updateEndDate": "2027-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "小米智能宠物饮水机2",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-10",
+      "updateEndDate": "2027-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "其他"
+    },
+    {
+      "name": "小米智能宠物喂食器 2",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-06",
+      "updateEndDate": "2027-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "其他"
+    },
+    {
+      "name": "小米无线鼠标Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-01",
+      "updateEndDate": "2026-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "办公"
+    },
+    {
+      "name": "Xiaomi全屋路由BE3600 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-12",
+      "updateEndDate": "2028-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "路由器"
+    },
+    {
+      "name": "Xiaomi路由器BE3600",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-10",
+      "updateEndDate": "2027-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "路由器"
+    },
+    {
+      "name": "Xiaomi Buds 5",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-09",
+      "updateEndDate": "2026-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Redmi Buds 6 Lite",
+      "brand": "REDMI",
+      "releaseDate": "2024-07",
+      "updateEndDate": "2026-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Redmi Buds 6 Active",
+      "brand": "REDMI",
+      "releaseDate": "2024-07",
+      "updateEndDate": "2026-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Xiaomi Smart Band 9",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-08",
+      "updateEndDate": "2026-08",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Xiaomi OpenWear Stereo",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-07",
+      "updateEndDate": "2026-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Redmi Watch 5 Lite",
+      "brand": "REDMI",
+      "releaseDate": "2024-09",
+      "updateEndDate": "2026-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Redmi Watch 5 Active",
+      "brand": "REDMI",
+      "releaseDate": "2024-09",
+      "updateEndDate": "2026-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Xiaomi Electrc Scooter 4 pro (2nd Gen)",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-05",
+      "updateEndDate": "2026-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "户外"
+    },
+    {
+      "name": "Xiaomi Electric Scooter 4 Lite (2nd Gen)",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-05",
+      "updateEndDate": "2026-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "户外"
+    },
+    {
+      "name": "小米电动滑板车4 铁车架",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-05",
+      "updateEndDate": "2026-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "户外"
+    },
+    {
+      "name": "Xiaomi WiFi Range Extender N300",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-05",
+      "updateEndDate": "2027-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "其他"
+    },
+    {
+      "name": "Xiaomi Mesh System AX3000 NE",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-04",
+      "updateEndDate": "2027-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "路由器"
+    },
+    {
+      "name": "Xiaomi Router AX3000T",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-02",
+      "updateEndDate": "2027-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "路由器"
+    },
+    {
+      "name": "Xiaomi Router AX1500",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-02",
+      "updateEndDate": "2027-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "路由器"
+    },
+    {
+      "name": "Xiaomi Mesh System AC1200",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-05",
+      "updateEndDate": "2027-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "路由器"
+    },
+    {
+      "name": "小米智能摄像机C500 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-12",
+      "updateEndDate": "2026-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "小米室外摄像机CW300",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-03",
+      "updateEndDate": "2027-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "小米智能摄像机C301",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-06",
+      "updateEndDate": "2027-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "小米室外摄像机BW400 Pro套装",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-12",
+      "updateEndDate": "2026-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "小米室外摄像机BW300",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-03",
+      "updateEndDate": "2027-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "小米室外摄像机BW500",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-06",
+      "updateEndDate": "2027-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "小米智能门铃3s",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-03",
+      "updateEndDate": "2027-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "其他"
+    },
+    {
+      "name": "小米扫地机器人X20+",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-04",
+      "updateEndDate": "2027-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "扫地机"
+    },
+    {
+      "name": "小米扫拖机器人X10",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-04",
+      "updateEndDate": "2027-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "扫地机"
+    },
+    {
+      "name": "小米扫地机器人X10+",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-04",
+      "updateEndDate": "2027-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "扫地机"
+    },
+    {
+      "name": "小米扫拖机器人S20",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-06",
+      "updateEndDate": "2027-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "扫地机"
+    },
+    {
+      "name": "小米扫拖机器人E10",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-04",
+      "updateEndDate": "2027-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "扫地机"
+    },
+    {
+      "name": "小米扫地机器人S20+",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-07",
+      "updateEndDate": "2027-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "扫地机"
+    },
+    {
+      "name": "小米投影仪青春版 2",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-12",
+      "updateEndDate": "2026-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "其他"
+    },
+    {
+      "name": "Mi Body Composition Scale 2 White",
+      "brand": "Xiaomi",
+      "releaseDate": "2019-12",
+      "updateEndDate": "2025-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "健康与健身"
+    },
+    {
+      "name": "Mi Door and Window Sensor 2",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-10",
+      "updateEndDate": "2025-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "传感器 & 网关"
+    },
+    {
+      "name": "Mi Dual Mode Wireless Mouse Silent Edition Black",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-07",
+      "updateEndDate": "2025-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "办公"
+    },
+    {
+      "name": "Mi Dual Mode Wireless Mouse Silent Edition White",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-07",
+      "updateEndDate": "2025-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "办公"
+    },
+    {
+      "name": "Mi Motion-Activated Night Light 2 (Bluetooth) White",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-01",
+      "updateEndDate": "2025-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "照明"
+    },
+    {
+      "name": "Mi Portable Photo Printer White",
+      "brand": "Xiaomi",
+      "releaseDate": "2020-05",
+      "updateEndDate": "2024-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "打印机"
+    },
+    {
+      "name": "Mi Smart Air Fryer 3.5L White",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-06",
+      "updateEndDate": "2025-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "厨房电器"
+    },
+    {
+      "name": "Mi Smart Scale 2 (White)",
+      "brand": "Xiaomi",
+      "releaseDate": "2020-01",
+      "updateEndDate": "2026-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "健康与健身"
+    },
+    {
+      "name": "Mi Temperature and Humidity Monitor 2 White",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-10",
+      "updateEndDate": "2024-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "传感器 & 网关"
+    },
+    {
+      "name": "Xiaomi Mouse Lite",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-01",
+      "updateEndDate": "2025-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "办公"
+    },
+    {
+      "name": "Xiaomi Outdoor Camera AW200",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-03",
+      "updateEndDate": "2026-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "Xiaomi Smart Air Fryer 6.5L Black GB",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-09",
+      "updateEndDate": "2025-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "厨房电器"
+    },
+    {
+      "name": "Xiaomi Smart Air Fryer 6.5L White GB",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-09",
+      "updateEndDate": "2025-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "厨房电器"
+    },
+    {
+      "name": "Xiaomi Smart Air Purifier 4 Pro White",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-11",
+      "updateEndDate": "2027-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "厨房电器"
+    },
+    {
+      "name": "Xiaomi Smart Air Purifier 4 White",
+      "brand": "Xiaomi",
+      "releaseDate": "2021-11",
+      "updateEndDate": "2027-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "厨房电器"
+    },
+    {
+      "name": "Xiaomi Smart Camera C200",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-12",
+      "updateEndDate": "2025-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "Xiaomi Smart Camera C300 UKCA",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-11",
+      "updateEndDate": "2025-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "Xiaomi Smart Camera C400",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-12",
+      "updateEndDate": "2025-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "Xiaomi Smart Cooking Robot UK",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-02",
+      "updateEndDate": "2025-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "厨房电器"
+    },
+    {
+      "name": "Xiaomi Smart Home Hub 2",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-04",
+      "updateEndDate": "2026-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "传感器 & 网关"
+    },
+    {
+      "name": "Xiaomi Smart Laser Measure",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-01",
+      "updateEndDate": "2029-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "其他"
+    },
+    {
+      "name": "Xiaomi Smart Pet Fountain UK",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-09",
+      "updateEndDate": "2025-09",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "健康与健身"
+    },
+    {
+      "name": "Xiaomi Smart Pet Food Feeder UK",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-01",
+      "updateEndDate": "2025-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "健康与健身"
+    },
+    {
+      "name": "Xiaomi Temperature and Humidity Monitor Clock",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-10",
+      "updateEndDate": "2025-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "传感器 & 网关"
+    },
+    {
+      "name": "Xiaomi Smart Multifunctional Rice Cooker",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-11",
+      "updateEndDate": "2026-03",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "厨房电器"
+    },
+    {
+      "name": "Xiaomi Outdoor Camera CW400",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-01",
+      "updateEndDate": "2027-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "Mi Wireless Switch",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-02",
+      "updateEndDate": "2026-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "插座"
+    },
+    {
+      "name": "xiaomi watch 2 pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-10",
+      "updateEndDate": "2025-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "xiaomi watch 2",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-02",
+      "updateEndDate": "2026-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Xiaomi Watch S3",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-02",
+      "updateEndDate": "2026-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Redmi Watch 4",
+      "brand": "REDMI",
+      "releaseDate": "2024-01",
+      "updateEndDate": "2026-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Redmi Watch 3 Active",
+      "brand": "REDMI",
+      "releaseDate": "2023-07",
+      "updateEndDate": "2025-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Xiaomi Smart Band 8 pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2024-02",
+      "updateEndDate": "2026-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Xiaomi Smart Band 8",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-10",
+      "updateEndDate": "2025-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Xiaomi Smart Band 8 active",
+      "brand": "Xiaomi",
+      "releaseDate": "2023-10",
+      "updateEndDate": "2025-10",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Redmi Buds 4 Lite",
+      "brand": "REDMI",
+      "releaseDate": "2023-02",
+      "updateEndDate": "2025-02",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Redmi Buds 5",
+      "brand": "REDMI",
+      "releaseDate": "2024-01",
+      "updateEndDate": "2026-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Redmi Buds 4 Active",
+      "brand": "REDMI",
+      "releaseDate": "2023-06",
+      "updateEndDate": "2025-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "可穿戴"
+    },
+    {
+      "name": "Xiaomi Smart Blender UK",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-11",
+      "updateEndDate": "2024-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "厨房电器"
+    },
+    {
+      "name": "Mi Selfie Stick Tripod",
+      "brand": "Xiaomi",
+      "releaseDate": "2019-12",
+      "updateEndDate": "2024-12",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": false,
+      "deviceType": "其他"
+    }
+  ],
+  "eol": [
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 1",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 2",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 2A",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 3",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 4",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 4S",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 4C",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 5",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 5S",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 5S Plus",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 5C",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 5X",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 6",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 6X",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 8",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 8 Lite",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 8 SE",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 8 UD",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 8 Pro",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 8 Explore Edition",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 9",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 9 Lite",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 9 Pro 5G",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 9T Pro",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 9 SE",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi CC 9",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi CC 9e",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi CC 9 Pro",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi Note",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi Note 2",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi Note 3",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi Note Pro",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "MIX",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "MIX 2",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi MAX",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi MAX 2",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi MAX 3",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi A1",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi A2",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi A2 Lite",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi A3 (Android One)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi Pad",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi Pad 2",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi Pad 3",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi Pad 4",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi Pad 4 Plus",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi MIX 2S",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi MIX 3",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi PLAY",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi Note 10",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 10 Lite zoom (CN)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi Note 10 Lite",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 10T Pro",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 10T",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 10 lite 5G (TW)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 Lite (TR)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 Lite (RU)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 Lite (IN)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 Lite (EEA)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 Lite (Global)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 Lite (ID)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi MIX Fold (CN)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 10S (CN)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 10 Pro",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 10",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 10 Ultra",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 Lite 5G (JP)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "MIX 4 (CN)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi Pad 5 Pro 5G (CN)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi Pad 5 Pro (CN)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi Civi (CN)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12X",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi Civi 1S (CN)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11X Pro (IN)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11i (Global)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11i (EEA)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 Ultra (Global)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 Ultra (IN)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 Ultra (EEA)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 Ultra (ID)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 (cn)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 (eea)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 (tw)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 (ru)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 (id)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 (tr)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 (global)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi Pad 5 (in)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 Pro Dimensity (cn)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11T (eea)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi Pad 5 Pro 12.4 (cn)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11T Pro (eea)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11T Pro (global)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11T (id)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11T (ru)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11T (global)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11 Lite 5G NE (eea)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11 Lite 5G NE (tr)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11 Lite 5G NE (ru)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11 Lite NE (in)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11 Lite 5G NE (tw)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11 Lite 5G NE (global)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11T Pro (id)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11T Pro (ru)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11T Pro (jp)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11T Pro (tw)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11T Pro (tr)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11T (tw)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11T (tr)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11T Pro (in)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 LE (cn)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11i (in)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 11i HyperCharge (in)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 Ultra (cn)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi 11 Pro (cn)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 (lm)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 Pro (ru)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 Pro (tr)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 Pro (id)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 Pro (in)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 Pro (tw)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 Pro (eea)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 Pro (global)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 Pro (cn)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 (cl)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 (id)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 (ru)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 (tw)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 (tr)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 (eea)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 (global)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 (cn)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi Pad 6 Pro (cn)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi Pad 6 (cn)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12S Ultra (cn)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 Lite (ru)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12S Pro (cn)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 Lite (global)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 Lite (eea)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 Lite (tw)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12 Lite (id)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 1",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 1S",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 2",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 2A",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 3",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 3S",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 3X",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 4",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 4X",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 4A",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 5",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 5 Plus",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 5A",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 1",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 1S",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 2",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 2 Pro",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 3",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 4",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 4X",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 5",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 5A",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 5 Pro",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Pro",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 6",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 6 Pro",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 6A",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 6 Pro",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi S2",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Y2",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Go",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 7",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 7S",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 7 Pro",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K20",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 7",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Y3",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K20 Pro",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 7A",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 8",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 8 Pro",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 8T",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 8A",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 8A Dual",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K30",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K30 5G",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K30 5G Speed",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10X (CN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10X Pro (CN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 9",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10X 4G (CN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 9A",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K30i 5G (CN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10 5G (MX)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 9C",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K30 Ultra (CN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 9",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 9 Prime (IN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 9C NFC",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K30S Ultra (CN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 9 Pro (ZA)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 8",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 9 Pro (TW)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 9T (RU)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 9T (TR)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 9T (EEA)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 9T",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 9T (TW)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 9T (Global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10 Pro Max (Global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10 Pro (Global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Go (RU)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10 Pro (TW)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10 Pro (RU)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10 Pro (TR)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10 Pro (ID)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10 Pro (EEA)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10 (TR)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10 5G (TW)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10T (RU)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 8 (2021) (EEA)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10 5G (TR)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 8 (2021) (RU)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K40 (CN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10S (Global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10 Lite (IN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11T 5G (IN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10 2022 (TR)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K40 Pro (CN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K40 Pro + (CN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K50 (CN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K50 Pro (CN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro (EEA)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro (ID)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro (TW)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro (RU)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11S (eea)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 10T (jp)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10A (tw)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10A Sport (in)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro (tr)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro+ 5G (ru)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro+ 5G (tw)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro+ 5G (tr)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro (in)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11T Pro (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11T Pro + (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10A (id)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro+ (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Pad (tr)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Pad (tw)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Pad (in)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Pad (id)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Pad (ru)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Pad (eea)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Pad (global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K50i (in)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10A (eea)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11R (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 11 Prime (in)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Pad (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A1+ (ru)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A1 (in)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A1+ (in)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A1 (eea)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10A (ru)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A1 (global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A1+ (global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A1 (id)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A1+ (tw)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A1 (tw)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K50G (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11S (global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11S (ru)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11S",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 4G (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro (global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K40S (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10A (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10A (global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro+ 5G (global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 5G (CN)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A2 (tw)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A2+ (ru)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A2+ (in)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A2 (in)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A2 (id)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A2 (eea)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A2+ (global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi A2 (global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 12 5G/Redmi Note 12R Pro (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 12 Pro Speed (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K60",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K60E",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 12 Turbo (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro 5G (tw)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro 5G (tr)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro 5G (global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11E Pro (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro+ 5G (in)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro 5G (id)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro 5G (jp)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro 5G (ru)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 11 Pro 5G (eea)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10C (global)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10 Power (in)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10 (in)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10C (id)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10C (tr)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10C (tw)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10C (ru)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10C (eea)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 10 5G (eea)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 12T Pro (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi K60E (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Pad SE (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 12R (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 12R (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi 12 5G (cn)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F1",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO PHONE F1",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X2",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F2 Pro (Global)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M2 Pro (IN)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X3 (IN)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X3 NFC (RU)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X3 NFC (ID)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X3 NFC (TR)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M3 (TW)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M3 (RU)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M3 (TR)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M3 (ID)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X3 Pro (TW)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X3 Pro (IN)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M3 Pro 5G (RU)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M3 Pro 5G (TR)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F3 GT (IN)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F3",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO C31 (IN)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X3 GT (ID)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M4 Pro 5G (IN)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M4 Pro 5G (TR)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F4 GT (Global)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F4 GT (eea)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F4 GT (tw)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F4 GT (ru)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F4 GT (id)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F4 GT (tr)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X4 GT (tw)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X4 GT (eea)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F4 (global)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F4 (ru)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F4 (eea)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F4 (in)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F4 (id)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO C40 (global)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X4 GT (ru)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X4 GT (global)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F4 (tr)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO F4 (tw)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO C40 (tw)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO C40 (tr)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X4 GT (tr)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M5 (eea)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M5 (global)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO C40 (id)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M5 (in)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO C40 (eea)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO C40 (ru)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO C50 (in)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M5 (tw)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M5 (tr)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M5 (ru)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M5s (ru)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M5s (global)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M5s (tr)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M5s (tw)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M5s (eea)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M5s (id)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M5 (id)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M4 Pro 5G (eea)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO M4 Pro",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO C51 (ru)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO C51 (in)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X4 Pro 5G (tw)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X4 Pro 5G (tr)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X4 Pro 5G (global)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X4 Pro 5G (in)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X4 Pro 5G (id)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X4 Pro 5G (ru)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X4 Pro 5G (eea)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X5 5G (tr)",
+      "date": ""
+    },
+    {
+      "brand": "POCO",
+      "name": "POCO X5 Pro 5G (id)",
+      "date": ""
+    }
+  ]
+}
