@@ -1,27 +1,26 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionName": "26.9.3",
+  "versionName": "26.9.4",
   "versionCode": 2026090503,
-  "tagName": "v26.9.3",
+  "tagName": "v26.9.4",
   "title": "HyperIntervals 正式版",
   "changelog": [
-    "HyperIntervals 正式版更新，本次更新后优化了用户的使用体验，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "HyperIntervals 正式版更新，本次更新后新增了LPDDR检测工具，并且优化了系统更新包查询工具的使用体验，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "新增 APK安装器在选择Shizuku安装器时可显示Shizuku的连接状态，同时支持一键授权",
-    "优化 数据页筛选弹窗视觉效果焕新",
-    "修复 液态玻璃模式下底部弹窗异常渲染高光效果的问题",
-    "修复 液态玻璃模式下部分顶部按钮拖动时被裁切的问题"
+    "新增 LPDDR 检测工具，仅部分机型支持检测",
+    "新增 系统更新包查询工具本地列表添加Xiaomi 18 Fold和Xiaomi Pad 9 Pro Max",
+    "优化 系统更新包查询工具远程列表更换为自有仓库列表"
   ],
-  "publishedAt": "2026-09-05",
+  "publishedAt": "2026-09-08",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.9.3",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.9.3/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.9.4",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.9.4/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.9.3",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.9.3/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.9.4",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.9.4/app-release.apk"
     }
   }
 }
