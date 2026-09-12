@@ -1,26 +1,30 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionName": "26.9.4",
-  "versionCode": 2026090804,
-  "tagName": "v26.9.4",
+  "versionName": "26.9.5",
+  "versionCode": 2026091205,
+  "tagName": "v26.9.5",
   "title": "HyperIntervals 正式版",
   "changelog": [
-    "HyperIntervals 正式版更新，本次更新后新增了LPDDR检测工具，并且优化了系统更新包查询工具的使用体验，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "HyperIntervals 正式版更新，本次更新后新增了软件快照保存和对比功能，并且优化了软件的使用体验，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "新增 LPDDR 检测工具，仅部分机型支持检测",
-    "新增 系统更新包查询工具本地列表添加Xiaomi 18 Fold和Xiaomi Pad 9 Pro Max",
-    "优化 系统更新包查询工具远程列表更换为自有仓库列表"
+    "新增 软件支持保存快照以及快照对比的功能",
+    "优化 应用版本可更新时显示红点提醒",
+    "优化 将QQ群、反馈通道等整合到「设置→帮助与反馈」中",
+    "优化 经典模式下底部弹窗的高度",
+    "优化 受兼容性影响，Android13以下的机型应用风格锁定为经典选项",
+    "优化 移除小工具页的开关",
+    "修复 部分机型无法显示触控IC的问题"
   ],
-  "publishedAt": "2026-09-08",
+  "publishedAt": "2026-09-12",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.9.4",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.9.4/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.9.5",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.9.5/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.9.4",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.9.4/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.9.5",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.9.5/app-release.apk"
     }
   }
 }
