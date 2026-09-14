@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
   "channel": "beta",
-  "versionName": "1.1.6.Beta",
-  "versionCode": 117,
-  "tagName": "v1.1.6",
-  "title": "HyperIntervals 1.1 Beta",
+  "versionName": "26.9.Beta1",
+  "versionCode": 2026091401,
+  "tagName": "v26.9.Beta1",
+  "title": "HyperIntervals Beta",
   "changelog": [
-    "HyperIntervals 1.1 Beta版更新，Beta版可能存在稳定性不如正式版的情况，本次更新主要用于测试安卓低版本的兼容性，同时OS4样式已在该版本下线，如您在使用中遇到任何问题，欢迎提交反馈~",
+    "HyperIntervals Beta版更新，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "新增 最低 Android 版本支持到 Android 8 (SDK26)",
-    "新增 适配安卓经典导航栏，自适应底部导航栏高度"
+    "提高应用的稳定性",
+    "优化应用的流畅度"
   ],
-  "publishedAt": "2026-08-25",
+  "publishedAt": "2026-09-14",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.1.6",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.1.6/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.9.Beta1",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.9.Beta1/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.1.6",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.1.6/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.9.Beta1",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.9.Beta1/app-release.apk"
     }
   }
 }
