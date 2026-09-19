@@ -1,30 +1,46 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionName": "26.9.5",
-  "versionCode": 2026091205,
-  "tagName": "v26.9.5",
+  "versionName": "26.9.6",
+  "versionCode": 2026091906,
+  "tagName": "v26.9.6",
   "title": "HyperIntervals 正式版",
   "changelog": [
-    "HyperIntervals 正式版更新，本次更新后新增了软件快照保存和对比功能，并且优化了软件的使用体验，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "HyperIntervals 正式版更新，本次更新后合入Beta版更新内容，增强了触控 IC 的识别能力，新增了抖音无水印下载与倒数日支持，并优化了平行视界下的交互细节，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "新增 软件支持保存快照以及快照对比的功能",
-    "优化 应用版本可更新时显示红点提醒",
-    "优化 将QQ群、反馈通道等整合到「设置→帮助与反馈」中",
-    "优化 经典模式下底部弹窗的高度",
-    "优化 受兼容性影响，Android13以下的机型应用风格锁定为经典选项",
-    "优化 移除小工具页的开关",
-    "修复 部分机型无法显示触控IC的问题"
+    "新增 工具页设备卡片的触控 IC 在设备自身无法识别时，支持从日志中分析得出",
+    "新增 实用工具支持抖音无水印下载，粘贴抖音的分享链接或整段分享文本即可解析并下载",
+    "新增 「个性化设置」，顶栏风格与底栏风格可分别设置，原「应用风格」选项已移除",
+    "新增 顶栏风格「渐变透明」选项，不做模糊、仅用透明度渐变让内容透出",
+    "新增 倒数日列表顶部的分类筛选，支持全部/生日/纪念日/倒数日",
+    "新增 娱乐工具、实用工具及其内部二级页的大屏平行视界支持",
+    "新增 平行视界下一级页选项的持久按压态，进入二级页后该选项保持按压效果",
+    "优化 倒数日详情页的倒数卡片改为屏幕居中显示，视觉更聚焦",
+    "优化 底栏风格「经典」更换为贴底固定样式，并支持背景模糊",
+    "优化 低版本系统适配：渐变模糊降级为半透明渐变遮罩，液态玻璃底栏降级为无模糊的半透明样式",
+    "优化 不支持模糊的机型隐藏「顶栏风格-渐变模糊」选项",
+    "优化 平板端使用悬浮底栏时统一使用液态玻璃样式，不再回落到经典悬浮底栏",
+    "优化 补全平行视界一级页右边缘的分隔线",
+    "优化 将软件内Backdrop组件库版本升级至v2.0.1",
+    "优化 已安装应用管理页底部工具栏的图标尺寸",
+    "优化 倒数日分类选择器的尺寸与对齐方式",
+    "修复 触控 IC 的日志分析会因离开小工具页而中断、导致一直显示未知的问题",
+    "修复 设备只读到 Xiaomi_Touch_Input_0 这类通用占位名时不会触发日志分析的问题",
+    "修复 手机等不会形成平行视界的设备上，一级页选项残留按压态的问题",
+    "修复 平板端渐变模糊遮罩在展开侧边栏、进出平行视界后错位的问题",
+    "修复 创建/编辑倒数日的弹窗无法按住顶部拖动条拖动关闭的问题",
+    "修复 平行视界下一级页按压态在切换页面后丢失、嵌套二级页退出后残留的问题",
+    "修复 平行视界下关闭二级页后，一级页选项的按压态延迟消失的问题"
   ],
-  "publishedAt": "2026-09-12",
+  "publishedAt": "2026-09-19",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.9.5",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.9.5/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.9.6",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.9.6/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.9.5",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.9.5/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.9.6",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.9.6/app-release.apk"
     }
   }
 }
