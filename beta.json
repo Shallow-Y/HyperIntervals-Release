@@ -1,25 +1,24 @@
 {
   "schemaVersion": 1,
   "channel": "beta",
-  "versionName": "26.9.Beta3",
-  "versionCode": 2026092603,
-  "tagName": "v26.9.Beta3",
+  "versionName": "26.10.Beta1",
+  "versionCode": 2026092901,
+  "tagName": "v26.10.Beta1",
   "title": "HyperIntervals Beta",
   "changelog": [
-    "HyperIntervals Beta版更新，本次更新后对用户的使用体验与应用的稳定性进行优化，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "HyperIntervals Beta预览版更新，本次更新后新增了Shizuku玩机专区，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "优化 使用体验",
-    "修复 已知问题"
+    "新增 Shizuku 专区"
   ],
-  "publishedAt": "2026-09-26",
+  "publishedAt": "2026-09-29",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.9.Beta3",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.9.Beta3/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.10.Beta1",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.10.Beta3/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.9.Beta3",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.9.Beta3/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.10.Beta1",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.10.Beta3/app-release.apk"
     }
   }
 }
