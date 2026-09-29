@@ -14,11 +14,11 @@
   "downloads": {
     "github": {
       "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.10.Beta1",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.10.Beta3/app-release.apk"
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.10.Beta1/app-release.apk"
     },
     "gitee": {
       "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.10.Beta1",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.10.Beta3/app-release.apk"
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.10.Beta1/app-release.apk"
     }
   }
 }
