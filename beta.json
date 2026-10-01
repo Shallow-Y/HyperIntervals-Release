@@ -1,24 +1,33 @@
 {
   "schemaVersion": 1,
   "channel": "beta",
-  "versionName": "26.10.Beta1",
-  "versionCode": 2026092901,
-  "tagName": "v26.10.Beta1",
+  "versionName": "26.10.Beta2",
+  "versionCode": 2026100102,
+  "tagName": "v26.10.Beta2",
   "title": "HyperIntervals Beta",
   "changelog": [
-    "HyperIntervals Beta预览版更新，本次更新后新增了Shizuku玩机专区，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "HyperIntervals Beta预览版更新，本次更新后新增了更多的Shizuku功能，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "新增 Shizuku 专区"
+    "新增 更多 Shizuku 玩机功能",
+    "新增 Shizuku 专区支持「独立激活」，通过系统「无线调试」完成配对后即可使用",
+    "新增 Shizuku 专区支持「自定义命令」，可直接执行 Shell 命令，并显示执行通道、当前域与退出码",
+    "新增 Shizuku 专区支持「恢复默认」，一键改回所有选项进入专区时的初始值",
+    "新增 首次进入 Shizuku 专区的风险提示，确认一次后不再拦截",
+    "优化 「刷新率锁定」根据设备硬件支持性显示选项",
+    "优化 「应用联网控制」首次进入时将主动获取应用列表权限",
+    "优化 Shizuku 专区的设置写入方式，部分机型不允许直接写入系统设置时改走设置提供者",
+    "优化 Shizuku 专区的开关关闭时按写入前的快照还原，不再写死一个默认值",
+    "优化 Shizuku 专区的开关状态改为实时读取"
   ],
-  "publishedAt": "2026-09-29",
+  "publishedAt": "2026-10-01",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.10.Beta1",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.10.Beta1/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.10.Beta2",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.10.Beta2/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.10.Beta1",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.10.Beta1/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.10.Beta2",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.10.Beta2/app-release.apk"
     }
   }
 }
