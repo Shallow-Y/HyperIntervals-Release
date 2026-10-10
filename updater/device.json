@@ -218,10 +218,11 @@
         { "deviceName": "Xiaomi Pad 8 Pro", "deviceCodeName": "piano", "deviceCode": "PY" },
         { "deviceName": "Xiaomi 18 Fold", "deviceCodeName": "lhasa", "deviceCode": "PN" },
         { "deviceName": "Xiaomi Pad 9 Pro Max", "deviceCodeName": "yingtian", "deviceCode": "BM" },
-        { "deviceName": "REDMI Note 17 Pro Max", "deviceCodeName": "brussels", "deviceCode": "DR" },
+        { "deviceName": "REDMI Note 17 Pro Max / POCO X8 Power", "deviceCodeName": "brussels", "deviceCode": "DR" },
+        { "deviceName": "REDMI Note 17 4G", "deviceCodeName": "zephyr", "deviceCode": "BU" },
         { "deviceName": "Xiaomi Pad 9 Pro", "deviceCodeName": "shuntian", "deviceCode": "FP" },
         { "deviceName": "Xiaomi 18 Pro", "deviceCodeName": "hongkong", "deviceCode": "FR" },
         { "deviceName": "Xiaomi 18 Pro Max", "deviceCodeName": "madrid", "deviceCode": "EO" }
     ],
-    "version": "26.9.23"
+    "version": "26.10.10"
 }
