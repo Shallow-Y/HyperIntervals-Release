@@ -1,31 +1,29 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionName": "26.10.2",
-  "versionCode": 2026100902,
-  "tagName": "v26.10.2",
+  "versionName": "26.10.3",
+  "versionCode": 2026101403,
+  "tagName": "v26.10.3",
   "title": "HyperIntervals 正式版",
   "changelog": [
-    "HyperIntervals 正式版更新，本次更新带来了物联网产品 EOL 列表和电池信息工具，同时紧急修复了 AER 列表无法正常显示的问题，建议旧版本的用户都更新到新版本，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "HyperIntervals 正式版更新，本次更新带来了全局界面优化焕新，增强液态玻璃的显示效果，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "新增 小工具-电池数据，从系统读取，展示全面的电池状况",
-    "新增 Shizuku专区-锁屏时钟显示冒号功能，开启后锁屏时钟始终会显示冒号",
-    "新增 首页支持显示物联网产品（IoT）的 EOL 列表",
-    "优化 首页 EOL 列表的标签显示内容",
-    "优化 数据页设备列表的刷新逻辑",
-    "优化 删除冗余代码，精简安装包体积",
-    "修复 平板端数据卡片样式页面显示异常的问题",
-    "修复 旧版本 AER 列表无法正常显示的问题"
+    "新增 实用工具-设备信息",
+    "优化 高级材质的显示效果，扩展液态玻璃的覆盖范围",
+    "优化 数据页搜索功能的使用逻辑",
+    "优化 数据页的搜索栏在平板端上的排版布局",
+    "优化 软件更新页更新日志的排版布局",
+    "修复 APK 安装器在被第三方应用调用时会异常跳转到软件主页面的问题"
   ],
-  "publishedAt": "2026-10-09",
+  "publishedAt": "2026-10-14",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.10.2",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.10.2/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.10.3",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.10.3/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.10.2",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.10.2/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.10.3",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.10.3/app-release.apk"
     }
   }
 }
