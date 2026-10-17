@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "versionName": "1.1.8",
+  "versionCode": 119,
+  "tagName": "v1.1.8",
+  "title": "HyperIntervals 1.1 正式版",
+  "changelog": [
+    "HyperIntervals 1.1 正式版更新，本次更新后软件接入安卓公平运行内存机制，如您在使用中遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "",
+    "新增 适配公平运行内存机制",
+    "新增 支持管理已安装的软件",
+    "优化 适配部分应用导出 apks 安装包",
+    "优化 分享多个应用安装包时自动打包成压缩包"
+  ],
+  "publishedAt": "2026-08-28",
+  "downloads": {
+    "github": {
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v1.1.8",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v1.1.8/app-release.apk"
+    },
+    "gitee": {
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v1.1.8",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v1.1.8/app-release.apk"
+    }
+  }
+}
