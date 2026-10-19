@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "versionName": "26.10.3",
-  "versionCode": 2026101403,
-  "tagName": "v26.10.3",
+  "versionName": "26.10.4",
+  "versionCode": 2026101904,
+  "tagName": "v26.10.4",
   "title": "HyperIntervals 正式版",
   "changelog": [
-    "HyperIntervals 正式版更新，本次更新带来了全局界面优化焕新，增强液态玻璃的显示效果，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "HyperIntervals 正式版更新，本次更新优化了设备维护状态判定、下载通知崩溃修复与多项性能优化，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "新增 实用工具-设备信息",
-    "优化 高级材质的显示效果，扩展液态玻璃的覆盖范围",
-    "优化 数据页搜索功能的使用逻辑",
-    "优化 数据页的搜索栏在平板端上的排版布局",
-    "优化 软件更新页更新日志的排版布局",
-    "修复 APK 安装器在被第三方应用调用时会异常跳转到软件主页面的问题"
+    "优化 产品支持信息列表的维护状况判定逻辑",
+    "优化 首页当前设备卡片的维护状况判定逻辑",
+    "优化 日志机型检测算法",
+    "优化 软件安装包体积，提升应用使用性能",
+    "修复 软件更新时出现闪退或无法下载的问题",
+    "修复 部分情况下偶现崩溃的问题"
   ],
-  "publishedAt": "2026-10-14",
+  "publishedAt": "2026-10-19",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.10.3",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.10.3/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.10.4",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.10.4/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.10.3",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.10.3/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.10.4",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.10.4/app-release.apk"
     }
   }
 }
