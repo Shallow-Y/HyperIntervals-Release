@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "versionName": "26.10.4",
+  "versionCode": 2026101904,
+  "tagName": "v26.10.4",
+  "title": "HyperIntervals 正式版",
+  "changelog": [
+    "HyperIntervals 正式版更新，本次更新优化了设备维护状态判定、下载通知崩溃修复与多项性能优化，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "",
+    "优化 产品支持信息列表的维护状况判定逻辑",
+    "优化 首页当前设备卡片的维护状况判定逻辑",
+    "优化 日志机型检测算法",
+    "优化 软件安装包体积，提升应用使用性能",
+    "修复 软件更新时出现闪退或无法下载的问题",
+    "修复 部分情况下偶现崩溃的问题"
+  ],
+  "publishedAt": "2026-10-19",
+  "downloads": {
+    "github": {
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.10.4",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.10.4/app-release.apk"
+    },
+    "gitee": {
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.10.4",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.10.4/app-release.apk"
+    }
+  }
+}

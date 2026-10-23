@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#f5f6fa" />
+  <script>
+    // 首屏前应用主题，避免闪烁；默认浅色
+    document.documentElement.dataset.theme = localStorage.getItem("hi-theme") || "light";
+  </script>
+  <meta name="description" content="HyperIntervals — 米系设备维护周期查询。查 Xiaomi / REDMI / POCO 手机的系统维护状态、AER 认证、IoT 支持与 EOL 列表，并获取 App 最新版本。" />
+  <title>HyperIntervals · 米系设备维护周期查询</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <div class="bg-orbs" aria-hidden="true">
+    <span class="orb orb-a"></span>
+    <span class="orb orb-b"></span>
+    <span class="orb orb-c"></span>
+  </div>
+
+  <header class="nav" id="nav">
+    <div class="nav-inner">
+      <a class="brand" href="#top">
+        <span class="brand-mark"><img src="assets/img/logo.png" alt="HyperIntervals 图标" /></span>
+        <span class="brand-name">HyperIntervals</span>
+      </a>
+      <nav class="nav-links" id="navLinks">
+        <a href="#overview">数据概览</a>
+        <a href="#devices">设备查询</a>
+        <a href="#changelog">更新日志</a>
+        <a href="#download">下载</a>
+      </nav>
+      <a class="nav-cta" href="#download">获取 App</a>
+      <button class="theme-toggle" id="themeToggle" aria-label="切换深浅色模式">
+        <svg class="ic-sun" viewBox="0 0 24 24"><path fill="currentColor" d="M12 17a5 5 0 1 0 0-10 5 5 0 0 0 0 10m0 4a1 1 0 0 1-1-1v-1a1 1 0 1 1 2 0v1a1 1 0 0 1-1 1m0-16a1 1 0 0 1-1-1V3a1 1 0 1 1 2 0v1a1 1 0 0 1-1 1M4 13H3a1 1 0 1 1 0-2h1a1 1 0 1 1 0 2m17 0h-1a1 1 0 1 1 0-2h1a1 1 0 1 1 0 2M6.4 19a1 1 0 0 1-.7-.3l-.7-.7a1 1 0 0 1 1.4-1.4l.7.7A1 1 0 0 1 6.4 19m12-12a1 1 0 0 1-.7-.3l-.7-.7a1 1 0 0 1 1.4-1.4l.7.7A1 1 0 0 1 18.4 7M6.4 5.6 5.7 5A1 1 0 0 0 4.3 6.4l.7.7a1 1 0 0 0 1.4-1.5m12 12-.7.7a1 1 0 0 0 1.4 1.4l.7-.7a1 1 0 0 0-1.4-1.4"/></svg>
+        <svg class="ic-moon" viewBox="0 0 24 24"><path fill="currentColor" d="M20.4 15.1A8.5 8.5 0 0 1 8.9 3.6 8.5 8.5 0 1 0 20.4 15.1"/></svg>
+      </button>
+      <button class="nav-toggle" id="navToggle" aria-label="打开菜单" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="top">
+    <!-- Hero -->
+    <section class="hero">
+      <div class="hero-inner reveal">
+        <p class="hero-eyebrow">Xiaomi · REDMI · POCO</p>
+        <h1 class="hero-title">米系设备<br /><span class="grad">维护周期</span>一查便知</h1>
+        <p class="hero-sub">
+          你的手机还能收到多久更新？HyperIntervals 汇总官方维护计划、AER 认证与 EOL 列表，
+          一部手机，全部答案。
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#devices">立即查询设备</a>
+          <a class="btn btn-ghost" href="#download">下载 App</a>
+        </div>
+        <div class="hero-meta" id="heroMeta"></div>
+      </div>
+      <div class="hero-card reveal" aria-hidden="true">
+        <div class="phone">
+          <div class="phone-screen">
+            <img class="shot shot-light" src="assets/img/preview_light.jpg" alt="HyperIntervals 数据页截图（浅色）" />
+            <img class="shot shot-dark" src="assets/img/preview_night.jpg" alt="HyperIntervals 数据页截图（深色）" />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Overview / stats -->
+    <section class="section" id="overview">
+      <div class="section-head reveal">
+        <h2>数据概览</h2>
+        <p>数据来自小米官方信任中心（trust.mi.com），随 App 数据脚本同步更新。</p>
+      </div>
+      <div class="stats reveal" id="stats">
+        <div class="stat"><b data-key="productSupport">—</b><span>手机支持设备</span></div>
+        <div class="stat"><b data-key="aer">—</b><span>AER 认证设备</span></div>
+        <div class="stat"><b data-key="iotSupport">—</b><span>IoT 支持设备</span></div>
+        <div class="stat"><b data-key="eol">—</b><span>EOL 设备</span></div>
+      </div>
+      <p class="stats-time" id="statsTime"></p>
+    </section>
+
+    <!-- Device search -->
+    <section class="section" id="devices">
+      <div class="section-head reveal">
+        <h2>设备查询</h2>
+        <p>搜索设备名称，查看维护状态、更新终止时间与系统版本信息。</p>
+      </div>
+
+      <div class="query reveal">
+        <div class="query-tabs" id="srcTabs" role="tablist">
+          <button class="qtab active" data-src="aer" role="tab">AER 认证</button>
+          <button class="qtab" data-src="productSupport" role="tab">手机支持</button>
+          <button class="qtab" data-src="iotSupport" role="tab">IoT 支持</button>
+        </div>
+        <div class="query-bar">
+          <svg viewBox="0 0 24 24" class="qicon"><path fill="currentColor" d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14"/></svg>
+          <input id="q" type="search" placeholder="搜索设备名称，如 Xiaomi 15 / REDMI K80 / POCO F6" autocomplete="off" />
+        </div>
+        <div class="query-brands" id="brandChips"></div>
+        <p class="query-count" id="qCount"></p>
+        <div class="cards" id="cards"></div>
+        <div class="query-more">
+          <a class="btn btn-ghost" id="officialLink" href="https://trust.mi.com/zh-CN/misrc/updates/phone?tab=aerdata" target="_blank" rel="noopener">官方网站</a>
+          <a class="btn btn-ghost" href="#download">查询更多 →</a>
+        </div>
+        <div class="empty" id="empty" hidden>
+          <b>暂无数据</b>
+          <p>没有找到匹配的设备。设备数据由 <code>scripts/fetch_device_data.py</code> 生成，若本地数据为空请先运行该脚本。</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Changelog -->
+    <section class="section" id="changelog">
+      <div class="section-head reveal">
+        <h2>更新日志</h2>
+        <p>HyperIntervals App 的版本更新记录。</p>
+      </div>
+      <div class="release reveal">
+        <div class="query-tabs" id="chTabs" role="tablist">
+          <button class="qtab active" data-ch="stable" role="tab">正式版</button>
+          <button class="qtab" data-ch="beta" role="tab">Beta</button>
+          <button class="qtab" data-ch="lite" role="tab">Lite</button>
+        </div>
+        <article class="release-card" id="releaseCard">
+          <header class="rc-head">
+            <div>
+              <h3 id="rcTitle">加载中…</h3>
+              <p class="rc-meta" id="rcMeta"></p>
+            </div>
+            <span class="rc-badge" id="rcBadge"></span>
+          </header>
+          <ul class="rc-list" id="rcList"></ul>
+          <footer class="rc-actions" id="rcActions"></footer>
+        </article>
+      </div>
+    </section>
+
+    <!-- Download -->
+    <section class="section" id="download">
+      <div class="section-head reveal">
+        <h2>下载 HyperIntervals</h2>
+        <p>Android 应用，Kotlin + Jetpack Compose 构建。选择你方便的发布渠道。</p>
+      </div>
+      <div class="dl reveal" id="dlCards">
+        <div class="dl-card">
+          <svg viewBox="0 0 24 24"><path fill="currentColor" d="M12 .5A11.5 11.5 0 0 0 .5 12a11.5 11.5 0 0 0 7.86 10.93c.58.1.79-.25.79-.56v-2c-3.2.7-3.87-1.54-3.87-1.54-.53-1.33-1.28-1.69-1.28-1.69-1.05-.72.08-.7.08-.7 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.73-1.55-2.55-.29-5.23-1.28-5.23-5.68 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18a11 11 0 0 1 5.8 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.41-2.69 5.38-5.25 5.67.41.36.78 1.05.78 2.13v3.16c0 .31.2.67.8.56A11.5 11.5 0 0 0 23.5 12 11.5 11.5 0 0 0 12 .5"/></svg>
+          <b>GitHub Releases</b>
+          <span>全球访问，更新第一时间推送</span>
+          <div class="dl-actions">
+            <a class="dl-btn" href="https://github.com/Shallow-Y/HyperIntervals-Release/releases" target="_blank" rel="noopener">完整版</a>
+            <a class="dl-btn lite" href="https://github.com/Shallow-Y/HyperIntervalsLite-Release/releases" target="_blank" rel="noopener">Lite 版</a>
+          </div>
+        </div>
+        <div class="dl-card">
+          <svg viewBox="0 0 24 24"><path fill="currentColor" d="M12 2 2 12l10 10 10-10zm0 4.5L16.5 12 12 16.5 7.5 12z"/></svg>
+          <b>Gitee Releases</b>
+          <span>国内镜像，下载速度更稳定</span>
+          <div class="dl-actions">
+            <a class="dl-btn" href="https://gitee.com/shallow-y/hyper-intervals-release/releases" target="_blank" rel="noopener">完整版</a>
+            <a class="dl-btn lite" href="https://gitee.com/shallow-y/hyper-intervals-lite-release/releases" target="_blank" rel="noopener">Lite 版</a>
+          </div>
+        </div>
+        <div class="dl-card">
+          <svg viewBox="0 0 24 24"><path fill="currentColor" d="M12 2a5 5 0 0 1 5 5c0 1.7-.85 3.2-2.14 4.1L12 22l-2.86-10.9A5 5 0 0 1 12 2m0 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4"/></svg>
+          <b>AppShare</b>
+          <span>安卓应用分享站，更便捷的下载渠道</span>
+          <div class="dl-actions">
+            <a class="dl-btn" href="https://app.sharess.cn/s/7oOmmz" target="_blank" rel="noopener">完整版</a>
+            <a class="dl-btn lite" href="https://app.sharess.cn/s/BKA00M" target="_blank" rel="noopener">Lite 版</a>
+          </div>
+        </div>
+        <div class="dl-card">
+          <svg viewBox="0 0 24 24"><path fill="currentColor" d="M4 4h16a2 2 0 0 1 2 2v3H2V6a2 2 0 0 1 2-2m-2 7h20v7a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2zm4 3v2h5v-2z"/></svg>
+          <b>123 网盘</b>
+          <span>123 网盘分享，无需账号登录即可下载</span>
+          <div class="dl-actions">
+            <a class="dl-btn" href="https://1816123197.share.123pan.cn/123pan/rRp5Vv-aRzR" target="_blank" rel="noopener">前往下载</a>
+          </div>
+        </div>
+        <div class="dl-card">
+          <svg viewBox="0 0 24 24"><path fill="currentColor" d="M12 2a7 7 0 0 0-7 7c0 2.2 1.03 4.16 2.63 5.44A2 2 0 0 0 9 16h6a2 2 0 0 0 1.37-1.56A7 7 0 0 0 12 2M9 18h6v1.5a2.5 2.5 0 0 1-5 0z"/></svg>
+          <b>夸克网盘</b>
+          <span>网盘转存，便捷订阅软件更新</span>
+          <div class="dl-actions">
+            <a class="dl-btn" href="https://pan.quark.cn/s/9b309c409d14" target="_blank" rel="noopener">前往下载</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>HyperIntervals · 米系设备维护周期查询</p>
+    <p class="footer-sub">设备数据来源：<a href="https://trust.mi.com/" target="_blank" rel="noopener">小米安全中心</a> · 本站为开源项目主页</p>
+  </footer>
+
+  <script src="assets/js/main.js" defer></script>
+</body>
+</html>

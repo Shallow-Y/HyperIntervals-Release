@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "channel": "beta",
+  "versionName": "26.10.Beta3",
+  "versionCode": 2026100303,
+  "tagName": "v26.10.Beta3",
+  "title": "HyperIntervals Beta",
+  "changelog": [
+    "HyperIntervals Beta预览版更新，本次更新带来了高级材质选项，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "",
+    "新增 高级材质选项，开启后将全局增强模糊效果",
+    "修复 平板端平行视界失效的问题"
+  ],
+  "publishedAt": "2026-10-03",
+  "downloads": {
+    "github": {
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.10.Beta3",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.10.Beta3/app-release.apk"
+    },
+    "gitee": {
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.10.Beta3",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.10.Beta3/app-release.apk"
+    }
+  }
+}

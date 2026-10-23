@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "channel": "lite",
+  "versionName": "26.10.5.Lite",
+  "versionCode": 2026101905,
+  "tagName": "v26.10.5.Lite",
+  "title": "HyperIntervals Lite",
+  "changelog": [
+    "HyperIntervals Lite 正式版更新，本次更新优化了设备维护状态判定、下载通知崩溃修复与多项性能优化，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "",
+    "优化 产品支持信息列表的维护状况判定逻辑",
+    "优化 首页当前设备卡片的维护状况判定逻辑",
+    "优化 应用使用性能",
+    "修复 软件更新时出现闪退或无法下载的问题",
+    "修复 部分情况下偶现崩溃的问题"
+  ],
+  "publishedAt": "2026-10-19",
+  "downloads": {
+    "github": {
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervalsLite-Release/releases/tag/v26.10.5.Lite",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervalsLite-Release/releases/download/v26.10.5.Lite/app-release.apk"
+    },
+    "gitee": {
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-lite-Release/releases/tag/v26.10.5.Lite",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-lite-Release/releases/download/v26.10.5.Lite/app-release.apk"
+    }
+  }
+}
