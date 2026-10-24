@@ -353,6 +353,20 @@ code {
 }
 .dl-btn.lite:hover { color: var(--text); border-color: var(--accent); }
 
+/* feedback —— 交流反馈 */
+.fb-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.fb-card {
+  display: flex; flex-direction: column; gap: 6px;
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: 20px; padding: 28px;
+  transition: transform .2s, border-color .2s, box-shadow .2s;
+}
+.fb-card:hover { transform: translateY(-4px); border-color: var(--accent-2); box-shadow: var(--shadow-card); }
+.fb-card svg { width: 32px; height: 32px; color: var(--accent-2); margin-bottom: 8px; }
+.fb-card b { font-size: 17.5px; }
+.fb-card span { color: var(--text-2); font-size: 13.5px; }
+.fb-card em { font-style: normal; margin-top: 14px; font-weight: 700; font-size: 14px; color: var(--accent-2); }
+
 /* footer */
 .footer {
   margin-top: 110px; padding: 44px 24px 52px;
