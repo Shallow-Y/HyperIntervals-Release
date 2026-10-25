@@ -1,13 +1,176 @@
 {
   "notices": [
-    { "id": "2026-10-09-10", "title": "版本更新通知", "content": "HyperIntervals 26.10.2现已更新，新版本紧急修复了 AER 列表无法正常显示数据的问题，建议还在旧版本的用户尽快升级到最新版本。有任何问题欢迎加入QQ群：1081593216", "date": "2026-10-09 11:55:00" },
-    { "id": "2026-10-05-09", "title": "版本更新通知", "content": "HyperIntervals 26.10.1现已更新，新版本带来了 Shizuku 玩机专区（开发者酷安@茶叶叶Wuu），各种玩机功能现已上线！同时Lite版也已正式发布，可前往 AppShare 下载体验。有任何问题欢迎加入QQ群：1081593216", "date": "2026-10-05 13:06:00" },
-    { "id": "2026-10-01-08", "title": "国庆快乐", "content": "金秋十月，举国同庆。祝大家国庆节快乐！", "date": "2026-10-01 10:41:00" },
-    { "id": "2026-09-28-07", "title": "版本更新通知", "content": "HyperIntervals 26.9.10现已更新，新版本增加了可选的数据卡片样式，将主页的液态玻璃底栏显示效果更改为小米澎湃OS4的样式，同时还修复了APK安装器无法安装apks的问题；作为9月的最后一个正式版，我们在工具页新增了「Shizuku 专区」（开发者酷安@茶叶叶Wuu）这将是10月软件更新的方向，有任何问题欢迎加入QQ群：1081593216", "date": "2026-09-28 17:51:00" },
-    { "id": "2026-09-25-06", "title": "版本更新通知", "content": "HyperIntervals 26.9.9现已更新，新版本补全了日志分析工具，支持日志整合分析，并且新增了禁用系统更新等多个实用的小工具，欢迎加入QQ群：1081593216", "date": "2026-09-25 20:07:00" },
-    { "id": "2026-09-24-05", "title": "HyperIntervals 后续更新规划说明", "content": "对于近期有部分人觉得 HyperIntervals 已经变味，认为开发者放飞自我、丢掉了软件原本的定位。甚至有人把完整撰写更新日志称作 “乱写更新”，将新增功能调侃成 “梦到什么就加什么功能”。对此我的回应是：HyperIntervals 从未丢失其核心定位，它本就不该局限在单一功能内。在 9 月的多个迭代版本里，我们也一直在持续打磨、优化查询工具的使用体验。后续软件会继续迭代更新，也会持续新增功能；但不再对外公开更新日志。同时我们会推出 Lite 轻量版，仅保留米系设备维护信息查询这一项核心功能。", "date": "2026-09-24 20:16:00" },
-    { "id": "2026-09-23-04", "title": "机型列表更新", "content": "系统更新包查询工具远程列表扩充，新增Xiaomi 18 Pro/Pro Max、Xiaomi Pad 9/9 Pro", "date": "2026-09-23 12:00:00" },
-    { "id": "2026-09-08-03", "title": "全新反馈交流通道开启", "content": "欢迎加入QQ群：1081593216", "date": "2026-09-08 12:00:00" },
-    { "id": "2026-08-31-02", "title": "欢迎使用 HyperIntervals", "content": "遇到问题欢迎前往「设置→帮助与反馈」提交反馈~", "date": "2026-08-31 12:00:00" }
+    {
+      "id": "2026-10-25-11",
+      "title": "HyperIntervals 预览网页发布",
+      "content": "HyperIntervals 官方预览网页正式发布。\nGitHub Pages：\nhttps://shallow-y.github.io/HyperIntervals-Release\n国内镜像：\nhttps://hyperintervals-3j532e0.maozi.io\n有任何问题欢迎加入QQ群：1081593216",
+      "date": "2026-10-25 16:06:00",
+      "buttons": [
+        {
+          "text": "跳转网页",
+          "type": "url",
+          "target": "https://shallow-y.github.io/HyperIntervals-Release/"
+        },
+        {
+          "text": "国内镜像",
+          "type": "url",
+          "target": "https://hyperintervals-3j532e0.maozi.io/"
+        },
+        {
+          "text": "加入 QQ 群",
+          "type": "url",
+          "target": "https://qm.qq.com/q/p3FAMbRupO"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-09-10",
+      "title": "版本更新通知",
+      "content": "HyperIntervals 26.10.2现已更新，新版本紧急修复了 AER 列表无法正常显示数据的问题，建议还在旧版本的用户尽快升级到最新版本。有任何问题欢迎加入QQ群：1081593216",
+      "date": "2026-10-09 11:55:00",
+      "buttons": [
+        {
+          "text": "前往应用更新",
+          "type": "page",
+          "target": "update_app",
+          "fallback": "设置 › 关于应用 › 应用更新"
+        },
+        {
+          "text": "加入 QQ 群",
+          "type": "url",
+          "target": "https://qm.qq.com/q/p3FAMbRupO"
+        },
+      ]
+    },
+    {
+      "id": "2026-10-05-09",
+      "title": "版本更新通知",
+      "content": "HyperIntervals 26.10.1现已更新，新版本带来了 Shizuku 玩机专区（开发者酷安@茶叶叶Wuu），各种玩机功能现已上线！同时Lite版也已正式发布，可前往 AppShare 下载体验。有任何问题欢迎加入QQ群：1081593216",
+      "date": "2026-10-05 13:06:00",
+      "buttons": [
+        {
+          "text": "前往应用更新",
+          "type": "page",
+          "target": "update_app",
+          "fallback": "设置 › 关于应用 › 应用更新"
+        },
+        {
+          "text": "加入 QQ 群",
+          "type": "url",
+          "target": "https://qm.qq.com/q/p3FAMbRupO"
+        },
+      ]
+    },
+    {
+      "id": "2026-10-01-08",
+      "title": "国庆快乐",
+      "content": "金秋十月，举国同庆。祝大家国庆节快乐！",
+      "date": "2026-10-01 10:41:00"
+    },
+    {
+      "id": "2026-09-28-07",
+      "title": "版本更新通知",
+      "content": "HyperIntervals 26.9.10现已更新，新版本增加了可选的数据卡片样式，将主页的液态玻璃底栏显示效果更改为小米澎湃OS4的样式，同时还修复了APK安装器无法安装apks的问题；作为9月的最后一个正式版，我们在工具页新增了「Shizuku 专区」（开发者酷安@茶叶叶Wuu）这将是10月软件更新的方向，有任何问题欢迎加入QQ群：1081593216",
+      "date": "2026-09-28 17:51:00",
+      "buttons": [
+        {
+          "text": "前往应用更新",
+          "type": "page",
+          "target": "update_app",
+          "fallback": "设置 › 关于应用 › 应用更新"
+        },
+        {
+          "text": "前往 Shizuku 专区",
+          "type": "page",
+          "target": "shizuku_tools",
+          "fallback": "工具 › Shizuku 专区"
+        },
+        {
+          "text": "加入 QQ 群",
+          "type": "url",
+          "target": "https://qm.qq.com/q/p3FAMbRupO"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-06",
+      "title": "版本更新通知",
+      "content": "HyperIntervals 26.9.9现已更新，新版本补全了日志分析工具，支持日志整合分析，并且新增了禁用系统更新等多个实用的小工具，欢迎加入QQ群：1081593216",
+      "date": "2026-09-25 20:07:00",
+      "buttons": [
+        {
+          "text": "前往应用更新",
+          "type": "page",
+          "target": "update_app",
+          "fallback": "设置 › 关于应用 › 应用更新"
+        },
+        {
+          "text": "前往管理日志",
+          "type": "page",
+          "target": "bugreport",
+          "fallback": "工具 › 管理日志"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-05",
+      "title": "HyperIntervals 后续更新规划说明",
+      "content": "对于近期有部分人觉得 HyperIntervals 已经变味，认为开发者放飞自我、丢掉了软件原本的定位。甚至有人把完整撰写更新日志称作 “乱写更新”，将新增功能调侃成 “梦到什么就加什么功能”。\n对此我的回应是：HyperIntervals 从未丢失其核心定位，它本就不该局限在单一功能内。在 9 月的多个迭代版本里，我们也一直在持续打磨、优化查询工具的使用体验。后续软件会继续迭代更新，也会持续新增功能；但不再对外公开更新日志。同时我们会推出 Lite 轻量版，仅保留米系设备维护信息查询这一项核心功能。",
+      "date": "2026-09-24 20:16:00",
+      "buttons": [
+        {
+          "text": "下载 Lite 版本",
+          "type": "url",
+          "target": "https://gitee.com/shallow-y/hyper-intervals-lite-release/releases"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-04",
+      "title": "机型列表更新",
+      "content": "系统更新包查询工具远程列表扩充，新增Xiaomi 18 Pro/Pro Max、Xiaomi Pad 9/9 Pro",
+      "date": "2026-09-23 12:00:00",
+      "buttons": [
+        {
+          "text": "前往系统更新包查询",
+          "type": "page",
+          "target": "updater",
+          "fallback": "工具 › 系统更新包查询"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-03",
+      "title": "全新反馈交流通道开启",
+      "content": "欢迎加入QQ群：1081593216",
+      "date": "2026-09-08 12:00:00",
+      "buttons": [
+        {
+          "text": "加入 QQ 群",
+          "type": "url",
+          "target": "https://qm.qq.com/q/p3FAMbRupO"
+        },
+        {
+          "text": "帮助与反馈",
+          "type": "page",
+          "target": "feedback",
+          "fallback": "设置 › 帮助与反馈"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-31-02",
+      "title": "欢迎使用 HyperIntervals",
+      "content": "遇到问题欢迎前往「设置→帮助与反馈」提交反馈~",
+      "date": "2026-08-31 12:00:00",
+      "buttons": [
+        {
+          "text": "帮助与反馈",
+          "type": "page",
+          "target": "feedback",
+          "fallback": "设置 › 帮助与反馈"
+        }
+      ]
+    }
   ]
 }
