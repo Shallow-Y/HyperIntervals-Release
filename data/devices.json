@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T08:26:37+00:00",
+  "generatedAt": "2026-11-01T09:16:43+00:00",
   "aer": [
     {
       "name": "REDMI 17C 5G",
@@ -849,7 +849,7 @@
       "updateFrequency": "90 Days",
       "initialOs": "Android 12",
       "futureOs": "Android 13;Android 14",
-      "active": true
+      "active": false
     },
     {
       "name": "Redmi Note 12 Pro+ 5G",
@@ -859,7 +859,7 @@
       "updateFrequency": "90 Days",
       "initialOs": "Android 12",
       "futureOs": "Android 13;Android 14",
-      "active": true
+      "active": false
     },
     {
       "name": "Redmi Note 11S",
@@ -1991,7 +1991,7 @@
       "updateFrequency": "",
       "initialOs": "",
       "futureOs": "",
-      "active": true
+      "active": false
     },
     {
       "name": "Redmi K50 Ultra",
@@ -2001,7 +2001,7 @@
       "updateFrequency": "",
       "initialOs": "",
       "futureOs": "",
-      "active": true
+      "active": false
     },
     {
       "name": "Redmi 12C",
@@ -3894,7 +3894,7 @@
       "updateFrequency": "",
       "initialOs": "",
       "futureOs": "",
-      "active": true,
+      "active": false,
       "deviceType": "可穿戴"
     },
     {
