@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T09:14:18+00:00",
+  "generatedAt": "2026-11-05T09:30:06+00:00",
   "aer": [
     {
       "name": "REDMI 17C 5G",
@@ -1113,6 +1113,16 @@
     }
   ],
   "productSupport": [
+    {
+      "name": "POCO X8s",
+      "brand": "POCO",
+      "releaseDate": "2026-10-25",
+      "updateEndDate": "2032-10-25",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
     {
       "name": "REDMI Note 17 Pro Max 5G",
       "brand": "REDMI",
