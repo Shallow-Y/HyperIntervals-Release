@@ -1,28 +1,29 @@
 {
   "schemaVersion": 1,
   "channel": "beta",
-  "versionName": "26.11.Beta1",
-  "versionCode": 2026110101,
-  "tagName": "v26.11.Beta1",
+  "versionName": "26.11.Beta2",
+  "versionCode": 2026110702,
+  "tagName": "v26.11.Beta2",
   "title": "HyperIntervals Beta",
   "changelog": [
-    "HyperIntervals Beta版更新，本次更新重构了繁琐的应用界面自定义选择模式，同步了小米澎湃OS4的风格。如果您在使用时遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "HyperIntervals Beta版更新，本次更新带来了应用多语言支持，同时还对Beta1中存在的问题进行了优化。如果您在使用时遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "新增 高级材质支持选择柔光玻璃或轻透磨砂",
-    "优化 重构应用 UI 界面，同步小米澎湃OS4 UI风格",
-    "优化 二级页开闭动画流畅性",
-    "修复 部分机型无法完成日志分析的问题",
-    "修复 特定场景下主页底部导航栏的选择胶囊显示异常的问题"
+    "新增 应用内多语言支持",
+    "优化 更多场景适配柔光玻璃材质效果",
+    "优化 平板设备下主页筛选以及更多场景的弹窗显示效果",
+    "修复 当设备存在多份日志时，进入管理日志页列表会默认位于最底部的问题",
+    "修复 管理日志以及手机备份管理等二级页中选项弹窗显示错位的问题",
+    "修复 部分场景下弹窗模糊采样异常的问题"
   ],
-  "publishedAt": "2026-11-01",
+  "publishedAt": "2026-11-07",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.11.Beta1",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.11.Beta1/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/tag/v26.11.Beta2",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervals-Release/releases/download/v26.11.Beta2/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.11.Beta1",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.11.Beta1/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/tag/v26.11.Beta2",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-release/releases/download/v26.11.Beta2/app-release.apk"
     }
   }
 }
