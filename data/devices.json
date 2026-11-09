@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T09:00:01+00:00",
+  "generatedAt": "2026-11-09T09:48:53+00:00",
   "aer": [
     {
       "name": "REDMI 17C 5G",
@@ -3225,6 +3225,28 @@
     }
   ],
   "iotSupport": [
+    {
+      "name": "小米电动滑板车 6 Plus",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-08-01",
+      "updateEndDate": "2028-05-26",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "户外"
+    },
+    {
+      "name": "Xiaomi Desktop Speaker Pro Set",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-01-01",
+      "updateEndDate": "2030-12-05",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "音箱"
+    },
     {
       "name": "Xiaomi Router BE19000 Pro",
       "brand": "Xiaomi",

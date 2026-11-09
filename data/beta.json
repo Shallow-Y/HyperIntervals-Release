@@ -15,6 +15,20 @@
     "修复 管理日志以及手机备份管理等二级页中选项弹窗显示错位的问题",
     "修复 部分场景下弹窗模糊采样异常的问题"
   ],
+  "changelogImages": [
+    {
+      "url": "https://gitee.com/shallow-y/hyper-intervals-release/raw/master/changelog/v26.11.Beta2/language.webp",
+      "after": 1,
+      "caption": "设置 › 语言",
+      "captionEn": "Settings › App preferences › Language"
+    },
+    {
+      "url": "https://gitee.com/shallow-y/hyper-intervals-release/raw/master/changelog/v26.11.Beta2/glass.webp",
+      "after": 2,
+      "caption": "设置 › 应用偏好设置 › 材质风格",
+      "captionEn": "Settings › App preferences › Material style"
+    }
+  ],
   "publishedAt": "2026-11-07",
   "downloads": {
     "github": {
