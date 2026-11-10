@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T09:48:53+00:00",
+  "generatedAt": "2026-11-10T09:51:26+00:00",
   "aer": [
     {
       "name": "REDMI 17C 5G",
@@ -3226,6 +3226,50 @@
   ],
   "iotSupport": [
     {
+      "name": "小米智能空气净化器 Elite",
+      "brand": "Xiaomi",
+      "releaseDate": "2022-09-01",
+      "updateEndDate": "2029-10-07",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "环境电器"
+    },
+    {
+      "name": "小米智能摄像机C300 Dual",
+      "brand": "Xiaomi",
+      "releaseDate": "2025-11-01",
+      "updateEndDate": "2027-09-01",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
+      "name": "米家无线吸尘器 4 Max",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-07-01",
+      "updateEndDate": "2029-12-06",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "环境电器"
+    },
+    {
+      "name": "小米智能摄像机 C401",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-08-01",
+      "updateEndDate": "2029-09-04",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true,
+      "deviceType": "摄像机"
+    },
+    {
       "name": "小米电动滑板车 6 Plus",
       "brand": "Xiaomi",
       "releaseDate": "2026-08-01",
@@ -4516,7 +4560,7 @@
       "name": "Xiaomi Smart Air Purifier 4 Pro White",
       "brand": "Xiaomi",
       "releaseDate": "2021-11-01",
-      "updateEndDate": "2027-04-15",
+      "updateEndDate": "2029-10-07",
       "updateFrequency": "",
       "initialOs": "",
       "futureOs": "",
