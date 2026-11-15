@@ -1,25 +1,49 @@
 {
   "schemaVersion": 1,
   "channel": "lite",
-  "versionName": "26.10.7.Lite",
-  "versionCode": 2026102507,
-  "tagName": "v26.10.7.Lite",
+  "versionName": "26.11.1.Lite",
+  "versionCode": 2026111401,
+  "tagName": "v26.11.1.Lite",
   "title": "HyperIntervals Lite",
   "changelog": [
-    "HyperIntervals Lite 正式版更新，本次更新初步优化了二级页过渡动画显示性能，同时还修复了公告按钮在深色模式下文本显示效果。如果您在使用时遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "HyperIntervals Lite 正式版更新，本次更新重构了应用框架，全面升级用户使用界面。如果您在使用时遇到任何问题，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "优化 尝试优化二级页开闭动画显示性能",
-    "修复 深色模式下公告按钮内文字显示异常的问题"
+    "新增 应用内多语言支持",
+    "新增 高级材质支持选择柔光玻璃或轻透磨砂",
+    "新增 柔性悬浮框架，应用视觉效果全面焕新，内容浏览更沉浸",
+    "优化 规范应用开发使用流程，上线隐私政策与用户引导界面",
+    "优化 二级页面开闭动画流畅性",
+    "修复 特定场景下主页底部导航栏的选择胶囊显示异常的问题"
   ],
-  "publishedAt": "2026-10-25",
+  "changelogImages": [
+    {
+      "url": "https://gitee.com/shallow-y/hyper-intervals-lite-release/raw/master/changelog/v26.11.1/language.webp",
+      "after": 1,
+      "caption": "设置 › 语言",
+      "captionEn": "Settings › App preferences › Language"
+    },
+    {
+      "url": "https://gitee.com/shallow-y/hyper-intervals-lite-release/raw/master/changelog/v26.11.1/glass.webp",
+      "after": 2,
+      "caption": "设置 › 应用偏好设置 › 材质风格",
+      "captionEn": "Settings › App preferences › Material style"
+    },
+    {
+      "url": "https://gitee.com/shallow-y/hyper-intervals-lite-release/raw/master/changelog/v26.11.1/os4.webp",
+      "after": 3,
+      "caption": "",
+      "captionEn": ""
+    }
+  ],
+  "publishedAt": "2026-11-14",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervalsLite-Release/releases/tag/v26.10.7.Lite",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervalsLite-Release/releases/download/v26.10.7.Lite/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervalsLite-Release/releases/tag/v26.11.1.Lite",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervalsLite-Release/releases/download/v26.11.1.Lite/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-lite-Release/releases/tag/v26.10.7.Lite",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-lite-Release/releases/download/v26.10.7.Lite/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-lite-Release/releases/tag/v26.11.1.Lite",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-lite-Release/releases/download/v26.11.1.Lite/app-release.apk"
     }
   }
 }
