@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T10:44:54+00:00",
+  "generatedAt": "2026-11-18T10:10:45+00:00",
   "aer": [
     {
       "name": "REDMI 17C 5G",
@@ -1118,6 +1118,26 @@
       "brand": "POCO",
       "releaseDate": "2026-10-25",
       "updateEndDate": "2032-10-25",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 18 Pro",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-11-17",
+      "updateEndDate": "2032-11-17",
+      "updateFrequency": "",
+      "initialOs": "",
+      "futureOs": "",
+      "active": true
+    },
+    {
+      "name": "Xiaomi 18 Pro Max",
+      "brand": "Xiaomi",
+      "releaseDate": "2026-11-17",
+      "updateEndDate": "2032-11-17",
       "updateFrequency": "",
       "initialOs": "",
       "futureOs": "",
