@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T10:55:05+00:00",
+  "generatedAt": "2026-11-27T10:52:18+00:00",
   "aer": [
     {
       "name": "REDMI 17C 5G",
@@ -5586,6 +5586,21 @@
       "date": ""
     },
     {
+      "brand": "Xiaomi",
+      "name": "Xiaomi MIX Fold 2 (cn)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi 12S (cn)",
+      "date": ""
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Xiaomi Civi 2 (cn)",
+      "date": ""
+    },
+    {
       "brand": "REDMI",
       "name": "Redmi 1",
       "date": ""
@@ -6483,6 +6498,21 @@
     {
       "brand": "REDMI",
       "name": "Redmi 12 5G (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 12 Pro (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 12 Pro+ (cn)",
+      "date": ""
+    },
+    {
+      "brand": "REDMI",
+      "name": "Redmi Note 12 DISCOVERY EDITION (cn)",
       "date": ""
     },
     {
